@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, August 5, 2026**
-*Updated 9:39 PM*
+*Updated 9:42 PM*
 
 ---
 
@@ -16,6 +16,15 @@ Partly cloudy
 ## ⚾ Toronto Blue Jays
 Last game: August 5, 2026
 Score: Blue Jays 5 — Houston Astros 4
+
+How the runs were scored:
+• Bottom 3: Jose Altuve homers (13) on a fly ball to left field.
+• Bottom 3: Christian Walker doubles (24) on a sharp line drive to left fielder Jesús Sánchez. Daulton Varsho scores.
+• Bottom 3: LaMonte Wade Jr. singles on a line drive to center fielder Myles Straw. Christian Walker scores.
+• Top 6: Kazuma Okamoto singles on a line drive to center fielder Daulton Varsho. Myles Straw scores.
+• Top 6: Jesús Sánchez homers (8) on a fly ball to right field. Kazuma Okamoto scores.
+• Top 10: Ernie Clement homers (9) on a fly ball to left field. Luis Urías scores.
+• Bottom 10: Astros challenged (tag play), call on the field was upheld: Yordan Alvarez singles on a sharp line drive to right fielder Nathan Lukes. Jeremy Peña scores. Yordan Alvarez out at 2nd on the throw, right fielder Nathan Lukes to shortstop Andrés Giménez.
 
 Wild Card: Unable to retrieve data
 
