@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Saturday, August 8, 2026**
-*Updated 9:58 PM*
+*Updated 11:57 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-74.0°F (feels like 77.8°F)
+69.5°F (feels like 74.3°F)
 Overcast
 ---
 
@@ -31,7 +31,7 @@ How the runs were scored:
 Wild Card: Blue Jays: 3.5 GB
 Teams ahead:
 1. Yankees — +7.5
-2. Red Sox — +6.5
+2. Red Sox — +6
 3. Rangers — 0 GB
 4. Guardians — 0.5 GB
 5. Twins — 0.5 GB
