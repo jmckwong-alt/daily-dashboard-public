@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, August 10, 2026**
-*Updated 8:06 PM*
+*Updated 10:22 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-76.2°F (feels like 79.7°F)
+75.2°F (feels like 77.2°F)
 Clear
 ---
 
@@ -69,7 +69,7 @@ The Philosophers' Cocoon
 - [(Alternatives to) social annotation assignments in the age of AI?](https://philosopherscocoon.com/2026/08/05/alternatives-to-social-annotation-assignments-in-the-age-of-ai/)
 - [Grappling with burnout (while ABD)?](https://philosopherscocoon.com/2026/08/04/grappling-with-burnout-while-abd/)
 
-APA Blog: unable to retrieve feed (<urlopen error timed out>)
+APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
 PhilArchive: unable to retrieve feed (HTTP Error 403: Forbidden)
 
