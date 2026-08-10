@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
-**Sunday, August 9, 2026**
-*Updated 10:01 PM*
+**Monday, August 10, 2026**
+*Updated 12:01 AM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-76.6°F (feels like 82.0°F)
-Clear
+68.6°F (feels like 71.6°F)
+Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -34,11 +34,10 @@ Teams ahead:
 1. Yankees — +7
 2. Red Sox — +5.5
 3. Rangers — 0 GB
-4. Guardians — 1 GB
-5. Tigers — 1.5 GB
+4. Tigers — 1 GB
+5. Guardians — 1.5 GB
 6. Twins — 1.5 GB
 7. Orioles — 2 GB
-8. Mariners — 3 GB
 
 
 📚 Google Scholar
@@ -47,7 +46,7 @@ Daily change: no change
 
 B: 487 (0)
 
-S: 1870 (+4)
+S: 1870 (0)
 
 E: 185 (0)
 
