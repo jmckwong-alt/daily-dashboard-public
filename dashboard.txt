@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, August 11, 2026**
-*Updated 12:04 AM*
+*Updated 4:54 AM*
 
 ---
 
@@ -9,35 +9,28 @@
 
 ## ☀️ Boone Weather
 Boone
-71.5°F (feels like 74.3°F)
+67.0°F (feels like 67.6°F)
 Clear
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 9, 2026
-Score: Blue Jays 6 — Philadelphia Phillies 7
+Last game: August 10, 2026
+Score: Blue Jays 2 — Boston Red Sox 1
 
 How the runs were scored:
-• Bottom 3: Kyle Schwarber homers (34) on a fly ball to left center field. Alec Bohm scores. Justin Crawford scores.
-• Top 4: Alejandro Kirk singles on a line drive to left fielder Brandon Marsh. Vladimir Guerrero Jr. scores.
-• Top 5: Brett Bateman singles on a ground ball to left fielder Brandon Marsh. Myles Straw scores. Davis Schneider to 2nd.
-• Bottom 5: Kyle Schwarber homers (35) on a fly ball to right field.
-• Bottom 6: Alec Bohm singles on a line drive to center fielder Brett Bateman. Bryson Stott scores. Alec Bohm to 2nd.
-• Top 8: Ernie Clement doubles (28) on a fly ball to left fielder Brandon Marsh. Alejandro Kirk scores. Kazuma Okamoto to 3rd.
-• Top 8: Andrés Giménez singles on a fly ball to right fielder Bryce Harper. Kazuma Okamoto scores. Ernie Clement scores.
-• Top 12: Blue Jays challenged (force play), call on the field was upheld: Jesús Sánchez grounds into a double play, second baseman Luis Arraez to shortstop Trea Turner to first baseman Alec Bohm. Nathan Lukes scores. Brett Bateman out at 2nd. Jesús Sánchez out at 1st.
-• Bottom 12: Bryson Stott singles on a line drive to right fielder Nathan Lukes. Luis Arraez scores. J.T. Realmuto to 2nd.
-• Bottom 12: Derek Hill singles on a ground ball to center fielder Brett Bateman. J.T. Realmuto scores. Bryson Stott to 3rd. Alec Bohm to 2nd.
+• Bottom 5: Charles McAdoo homers (2) on a fly ball to right field.
+• Bottom 6: Andrés Giménez singles on a sharp line drive to right fielder Wilyer Abreu. George Springer scores. Andrés Giménez to 2nd.
+• Top 7: Umpire reviewed (rules check), call on the field was overturned: Ceddanne Rafaela flies into a sacrifice double play, center fielder Brett Bateman to second baseman Josh Smith to first baseman Vladimir Guerrero Jr. Anthony Seigler scores. Nick Sogard out at 1st.
 
-Wild Card: Blue Jays: 3.5 GB
+Wild Card: Blue Jays: 3 GB
 Teams ahead:
 1. Yankees — +7
-2. Red Sox — +5.5
+2. Red Sox — +5
 3. Rangers — 0 GB
 4. Tigers — 1 GB
-5. Guardians — 1.5 GB
-6. Twins — 1.5 GB
-7. Orioles — 2 GB
+5. Twins — 1 GB
+6. Guardians — 1.5 GB
+7. Orioles — 2.5 GB
 
 
 📚 Google Scholar
@@ -80,7 +73,12 @@ The Brains Blog
 - [Gavin Robert Foster:  The Pluralistic Evolution of Mindreading](https://philosophyofbrains.com/2026/07/21/gavin-robert-foster-the-pluralistic-evolution-of-mindreading.aspx)
 - [This Week:  Featured Posts from the Southern Society for Philosophy and Psychology, 2026 Meeting!](https://philosophyofbrains.com/2026/07/20/this-week-featured-posts-from-the-southern-society-for-philosophy-and-psychology-2026-meeting.aspx)
 
-PEA Soup: unable to retrieve feed (<urlopen error [Errno 101] Network is unreachable>)
+PEA Soup
+- [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
+- [Ethics Discussion: Kimberley Brownlee & Alyssa Izatt – Justice for Girls: On the Provision of Abortion as Adequate Care.](https://peasoupblog.com/2026/04/ethics-discussion-kimberley-brownlee-alyssa-izatt-justice-for-girls-on-the-provision-of-abortion-as-adequate-care/)
+- [Call for Abstracts: Ethics at Notre Dame Symposium (ENDs) 2027](https://peasoupblog.com/2026/04/call-for-abstracts-ethics-at-notre-dame-symposium-ends-2027/)
+- [Announcement: Justice for Girls: On the Provision of Abortion as Adequate Care. With Kimberley Brownlee, Alyssa Izatt and Japa Pallikkathayil](https://peasoupblog.com/2026/04/announcement-justice-for-girls-on-the-provision-of-abortion-as-adequate-care-with-kimberley-brownlee-alyssa-izatt-and-japa-pallikkathayil/)
+- [Ethics: Julian Jonker & Brookes Brown – A Dilemma for Expressive Arguments Against Markets](https://peasoupblog.com/2026/03/ethics-julian-jonker-brookes-brown-a-dilemma-for-expressive-arguments-against-markets/)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
