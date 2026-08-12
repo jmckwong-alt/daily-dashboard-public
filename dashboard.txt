@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, August 12, 2026**
-*Updated 2:39 PM*
+*Updated 6:04 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-67.5°F (feels like 67.6°F)
+73.0°F (feels like 74.2°F)
 Overcast
 ---
 
@@ -73,14 +73,19 @@ The Brains Blog
 - [Yoonhee Jung:  Beyond Veridicality](https://philosophyofbrains.com/2026/07/22/yoonhee-jung-beyond-veridicality.aspx)
 - [Gavin Robert Foster:  The Pluralistic Evolution of Mindreading](https://philosophyofbrains.com/2026/07/21/gavin-robert-foster-the-pluralistic-evolution-of-mindreading.aspx)
 
-PEA Soup: unable to retrieve feed (<urlopen error [Errno 101] Network is unreachable>)
+PEA Soup
+- [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
+- [Ethics Discussion: Kimberley Brownlee & Alyssa Izatt – Justice for Girls: On the Provision of Abortion as Adequate Care.](https://peasoupblog.com/2026/04/ethics-discussion-kimberley-brownlee-alyssa-izatt-justice-for-girls-on-the-provision-of-abortion-as-adequate-care/)
+- [Call for Abstracts: Ethics at Notre Dame Symposium (ENDs) 2027](https://peasoupblog.com/2026/04/call-for-abstracts-ethics-at-notre-dame-symposium-ends-2027/)
+- [Announcement: Justice for Girls: On the Provision of Abortion as Adequate Care. With Kimberley Brownlee, Alyssa Izatt and Japa Pallikkathayil](https://peasoupblog.com/2026/04/announcement-justice-for-girls-on-the-provision-of-abortion-as-adequate-care-with-kimberley-brownlee-alyssa-izatt-and-japa-pallikkathayil/)
+- [Ethics: Julian Jonker & Brookes Brown – A Dilemma for Expressive Arguments Against Markets](https://peasoupblog.com/2026/03/ethics-julian-jonker-brookes-brown-a-dilemma-for-expressive-arguments-against-markets/)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Open access philosophy books, a thread:  Part V](https://leiterreports.com/2026/08/12/open-access-philosophy-books-a-thread-part-v/)
+- [If Abdul El-Sayd is smart and articulate, Francisca Hong (who, fortunately, lost the primary for Governor in Wisconsin)&#8230;](https://leiterreports.com/2026/08/12/if-abdul-el-sayd-is-smart-and-articulate-francisca-hong-who-fortunately-lost-the-primary-for-governor-in-wisconsin/)
 - [El-Sayd, the Democratic nominee for Senate in Michigan&#8230;](https://leiterreports.com/2026/08/11/el-sayd-the-democratic-nominee-for-senate-in-michigan/)
 - [Fascinating piece by Tyler Harper on the &#8220;diversity&#8221; madness at Bates College&#8230;](https://leiterreports.com/2026/08/11/fascinating-piece-by-tyler-harper-on-the-diversity-madness-at-bates-college/)
-- [Republican voters in Michigan elect candidate who dropped out of race rather than vote for a Trump-endorsed candidate with a Muslim-sounding name](https://leiterreports.com/2026/08/10/republican-voters-in-michigan-elect-candidate-who-dropped-out-of-race-rather-than-vote-for-a-trump-endorsed-candidate-with-a-muslim-sounding-name/)
-- [University of Minnesota pays $250,000 settlement after wrongfully rescinding job offer to Holocaust scholar who called Israeli retaliation in Gaza &#8220;genocide&#8221;](https://leiterreports.com/2026/08/10/university-of-minnesota-pays-250000-settlement-after-wrongfully-rescinding-job-offer-to-holocaust-scholar-who-called-israeli-retaliation-in-gaza-genocide/)
 
 
 ==========================================
