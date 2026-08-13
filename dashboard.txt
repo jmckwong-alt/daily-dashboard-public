@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Thursday, August 13, 2026**
-*Updated 12:02 AM*
+*Updated 6:04 AM*
 
 ---
 
@@ -9,32 +9,33 @@
 
 ## ☀️ Boone Weather
 Boone
-69.6°F (feels like 73.6°F)
-Overcast
+67.2°F (feels like 68.2°F)
+Rain
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 11, 2026
-Score: Blue Jays 5 — Boston Red Sox 3
+Last game: August 12, 2026
+Score: Blue Jays 6 — Boston Red Sox 4
 
 How the runs were scored:
-• Top 3: Ceddanne Rafaela out on a sacrifice fly to center fielder Brett Bateman. Andruw Monasterio scores.
-• Bottom 3: Brett Bateman doubles (2) on a line drive to left fielder Jarren Duran. Nathan Lukes scores. Charles McAdoo to 3rd.
-• Top 4: Wilyer Abreu homers (21) on a fly ball to right center field.
-• Top 5: Ceddanne Rafaela homers (16) on a fly ball to center field.
-• Bottom 5: Charles McAdoo out on a sacrifice fly to right fielder Wilyer Abreu. Andrés Giménez scores.
-• Bottom 5: Brett Bateman singles on a line drive to center fielder Ceddanne Rafaela. Myles Straw scores.
-• Bottom 6: Ernie Clement grounds into a force out, second baseman Nick Sogard to shortstop Andruw Monasterio. George Springer scores. Alejandro Kirk out at 2nd. Ernie Clement to 1st.
-• Bottom 8: Myles Straw doubles (12) on a line drive to left fielder Jarren Duran. Josh Smith scores. Andrés Giménez to 3rd.
+• Bottom 2: Ernie Clement singles on a line drive to center fielder Ceddanne Rafaela. Kazuma Okamoto scores.
+• Top 5: Willson Contreras homers (24) on a fly ball to left center field.
+• Bottom 8: Kazuma Okamoto singles on a line drive to left fielder Jarren Duran. Vladimir Guerrero Jr. scores. Brandon Valenzuela to 3rd. Kazuma Okamoto to 2nd.
+• Bottom 8: Ernie Clement walks. Brandon Valenzuela scores. Kazuma Okamoto to 3rd. Andrés Giménez to 2nd.
+• Bottom 8: George Springer out on a sacrifice fly to center fielder Ceddanne Rafaela. Kazuma Okamoto scores.
+• Bottom 8: Myles Straw doubles (13) on a line drive to left fielder Jarren Duran. Andrés Giménez scores. Ernie Clement scores.
+• Top 9: Caleb Durbin singles on a line drive to center fielder Myles Straw. Willson Contreras scores. Wilyer Abreu to 3rd.
+• Top 9: Jarren Duran doubles (13) on a fly ball to right fielder Brett Bateman. Wilyer Abreu scores. Caleb Durbin to 3rd.
+• Top 9: Andruw Monasterio out on a sacrifice fly to right fielder Brett Bateman. Caleb Durbin scores. Jarren Duran to 3rd.
 
-Wild Card: Blue Jays: 2.5 GB
+Wild Card: Blue Jays: 1.5 GB
 Teams ahead:
-1. Yankees — +7.5
+1. Yankees — +8.5
 2. Red Sox — +4.5
 3. Rangers — 0 GB
 4. Tigers — 0.5 GB
-5. Twins — 1 GB
-6. Guardians — 2 GB
+5. Twins — 0.5 GB
+6. Guardians — 1 GB
 
 
 📚 Google Scholar
