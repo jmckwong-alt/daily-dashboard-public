@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
-**Thursday, August 13, 2026**
-*Updated 9:27 PM*
+**Friday, August 14, 2026**
+*Updated 12:02 AM*
 
 ---
 
@@ -9,32 +9,28 @@
 
 ## ☀️ Boone Weather
 Boone
-76.9°F (feels like 79.7°F)
-Overcast
+73.5°F (feels like 78.9°F)
+Partly cloudy
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 12, 2026
-Score: Blue Jays 6 — Boston Red Sox 4
+Last game: August 13, 2026
+Score: Blue Jays 0 — Boston Red Sox 7
 
 How the runs were scored:
-• Bottom 2: Ernie Clement singles on a line drive to center fielder Ceddanne Rafaela. Kazuma Okamoto scores.
-• Top 5: Willson Contreras homers (24) on a fly ball to left center field.
-• Bottom 8: Kazuma Okamoto singles on a line drive to left fielder Jarren Duran. Vladimir Guerrero Jr. scores. Brandon Valenzuela to 3rd. Kazuma Okamoto to 2nd.
-• Bottom 8: Ernie Clement walks. Brandon Valenzuela scores. Kazuma Okamoto to 3rd. Andrés Giménez to 2nd.
-• Bottom 8: George Springer out on a sacrifice fly to center fielder Ceddanne Rafaela. Kazuma Okamoto scores.
-• Bottom 8: Myles Straw doubles (13) on a line drive to left fielder Jarren Duran. Andrés Giménez scores. Ernie Clement scores.
-• Top 9: Caleb Durbin singles on a line drive to center fielder Myles Straw. Willson Contreras scores. Wilyer Abreu to 3rd.
-• Top 9: Jarren Duran doubles (13) on a fly ball to right fielder Brett Bateman. Wilyer Abreu scores. Caleb Durbin to 3rd.
-• Top 9: Andruw Monasterio out on a sacrifice fly to right fielder Brett Bateman. Caleb Durbin scores. Jarren Duran to 3rd.
+• Top 1: Willson Contreras doubles (19) on a line drive to right fielder Nathan Lukes. Wilyer Abreu scores.
+• Top 8: Caleb Durbin hits a grand slam (12) to left field. Ceddanne Rafaela scores. Wilyer Abreu scores. Masataka Yoshida scores.
+• Top 9: Masataka Yoshida out on a sacrifice fly to center fielder Myles Straw. Nick Sogard scores. Ceddanne Rafaela to 3rd.
+• Top 9: Caleb Durbin singles on a ground ball to left fielder Charles McAdoo. Ceddanne Rafaela scores. Wilyer Abreu to 2nd.
 
-Wild Card: Blue Jays: 1.5 GB
+Wild Card: Blue Jays: 2 GB
 Teams ahead:
 1. Yankees — +8
-2. Red Sox — +4.5
+2. Red Sox — +5
 3. Rangers — 0 GB
 4. Tigers — 0 GB
 5. Twins — 0.5 GB
+6. Guardians — 1.5 GB
 
 
 📚 Google Scholar
