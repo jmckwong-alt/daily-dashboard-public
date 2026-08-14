@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Friday, August 14, 2026**
-*Updated 12:02 AM*
+*Updated 6:03 AM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-73.5°F (feels like 78.9°F)
-Partly cloudy
+69.8°F (feels like 72.3°F)
+Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -27,9 +27,9 @@ Wild Card: Blue Jays: 2 GB
 Teams ahead:
 1. Yankees — +8
 2. Red Sox — +5
-3. Rangers — 0 GB
-4. Tigers — 0 GB
-5. Twins — 0.5 GB
+3. Tigers — 0 GB
+4. Rangers — 0.5 GB
+5. Twins — 1 GB
 6. Guardians — 1.5 GB
 
 
@@ -59,7 +59,7 @@ The Philosophers' Cocoon
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
-PhilArchive
+PhilArchive: unable to retrieve feed (The read operation timed out)
 
 The Brains Blog
 - [How Boolean logic saved millions of lives](https://philosophyofbrains.com/2026/08/11/how-boolean-logic-saved-millions-of-lives.aspx)
@@ -68,16 +68,11 @@ The Brains Blog
 - [Yoonhee Jung:  Beyond Veridicality](https://philosophyofbrains.com/2026/07/22/yoonhee-jung-beyond-veridicality.aspx)
 - [Gavin Robert Foster:  The Pluralistic Evolution of Mindreading](https://philosophyofbrains.com/2026/07/21/gavin-robert-foster-the-pluralistic-evolution-of-mindreading.aspx)
 
-PEA Soup
-- [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
-- [Ethics Discussion: Kimberley Brownlee & Alyssa Izatt – Justice for Girls: On the Provision of Abortion as Adequate Care.](https://peasoupblog.com/2026/04/ethics-discussion-kimberley-brownlee-alyssa-izatt-justice-for-girls-on-the-provision-of-abortion-as-adequate-care/)
-- [Call for Abstracts: Ethics at Notre Dame Symposium (ENDs) 2027](https://peasoupblog.com/2026/04/call-for-abstracts-ethics-at-notre-dame-symposium-ends-2027/)
-- [Announcement: Justice for Girls: On the Provision of Abortion as Adequate Care. With Kimberley Brownlee, Alyssa Izatt and Japa Pallikkathayil](https://peasoupblog.com/2026/04/announcement-justice-for-girls-on-the-provision-of-abortion-as-adequate-care-with-kimberley-brownlee-alyssa-izatt-and-japa-pallikkathayil/)
-- [Ethics: Julian Jonker & Brookes Brown – A Dilemma for Expressive Arguments Against Markets](https://peasoupblog.com/2026/03/ethics-julian-jonker-brookes-brown-a-dilemma-for-expressive-arguments-against-markets/)
+PEA Soup: unable to retrieve feed (<urlopen error [Errno 101] Network is unreachable>)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
-- [In Memoriam:  David Charles (19__-2026)](https://leiterreports.com/2026/08/13/in-memoriam-david-charles-19__-2026/)
+- [In Memoriam:  David Charles (1947-2026)](https://leiterreports.com/2026/08/13/in-memoriam-david-charles-19__-2026/)
 - [Do &#8220;liberal&#8221; faculty &#8220;indoctrinate&#8221; their students to be liberal?](https://leiterreports.com/2026/08/13/do-liberal-faculty-indoctrinate-their-students-to-be-liberal/)
 - [Open access philosophy books, a thread:  Part V](https://leiterreports.com/2026/08/12/open-access-philosophy-books-a-thread-part-v/)
 - [If Abdul El-Sayd is smart and articulate, Francesca Hong (who, fortunately, lost the primary for Governor in Wisconsin)&#8230;  (UPDATED)](https://leiterreports.com/2026/08/12/if-abdul-el-sayd-is-smart-and-articulate-francisca-hong-who-fortunately-lost-the-primary-for-governor-in-wisconsin/)
