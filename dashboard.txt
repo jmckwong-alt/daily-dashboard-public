@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
-**Friday, August 14, 2026**
-*Updated 11:42 PM*
+**Saturday, August 15, 2026**
+*Updated 2:40 AM*
 
 ---
 
@@ -9,28 +9,27 @@
 
 ## ☀️ Boone Weather
 Boone
-77.2°F (feels like 82.4°F)
-Partly cloudy
+71.0°F (feels like 74.1°F)
+Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 13, 2026
-Score: Blue Jays 0 — Boston Red Sox 7
+Last game: August 14, 2026
+Score: Blue Jays 3 — New York Yankees 1
 
 How the runs were scored:
-• Top 1: Willson Contreras doubles (19) on a line drive to right fielder Nathan Lukes. Wilyer Abreu scores.
-• Top 8: Caleb Durbin hits a grand slam (12) to left field. Ceddanne Rafaela scores. Wilyer Abreu scores. Masataka Yoshida scores.
-• Top 9: Masataka Yoshida out on a sacrifice fly to center fielder Myles Straw. Nick Sogard scores. Ceddanne Rafaela to 3rd.
-• Top 9: Caleb Durbin singles on a ground ball to left fielder Charles McAdoo. Ceddanne Rafaela scores. Wilyer Abreu to 2nd.
+• Top 6: Trent Grisham homers (16) on a fly ball to right field.
+• Bottom 6: George Springer grounds into a force out, fielded by third baseman Ryan McMahon. Nathan Lukes out at 3rd. Vladimir Guerrero Jr. scores. Throwing error by third baseman Ryan McMahon. Throwing error by first baseman Luis García Jr.
+• Bottom 6: Alejandro Kirk doubles (5) on a sharp line drive to left fielder Heliot Ramos. George Springer scores.
+• Bottom 8: Alejandro Kirk homers (5) on a fly ball to right center field.
 
-Wild Card: Blue Jays: 2 GB
+Wild Card: Blue Jays: 1 GB
 Teams ahead:
 1. Yankees — +8
 2. Red Sox — +5
-3. Tigers — 0 GB
-4. Rangers — 0.5 GB
-5. Twins — 1 GB
-6. Guardians — 1.5 GB
+3. Rangers — 0 GB
+4. Tigers — 0 GB
+5. Twins — 0.5 GB
 
 
 📚 Google Scholar
