@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Sunday, August 16, 2026**
-*Updated 10:00 PM*
+*Updated 11:01 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-80.4°F (feels like 83.4°F)
+78.2°F (feels like 81.5°F)
 Clear
 ---
 
@@ -28,9 +28,9 @@ How the runs were scored:
 Wild Card: Blue Jays: 1 GB
 Teams ahead:
 1. Yankees — +8
-2. Red Sox — +5.5
+2. Red Sox — +5
 3. Orioles — 0 GB
-4. Rangers — 0 GB
+4. Rangers — 0.5 GB
 
 
 📚 Google Scholar
@@ -43,7 +43,7 @@ R: 325 (0)
 M: 37 (0)
 ## Philosophy
 
-Daily Nous: unable to retrieve feed (HTTP Error 522: <none>)
+Daily Nous: unable to retrieve feed (HTTP Error 503: Service Unavailable)
 
 The Philosophers' Cocoon
 - [Supervising MA students who have trouble completing papers on time (or at all)?](https://philosopherscocoon.com/2026/08/14/supervising-ma-students-who-have-trouble-completing-papers-on-time-or-at-all/)
