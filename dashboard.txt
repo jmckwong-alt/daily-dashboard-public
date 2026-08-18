@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, August 18, 2026**
-*Updated 11:52 AM*
+*Updated 2:17 PM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-67.2°F (feels like 67.2°F)
-Mostly clear
+69.3°F (feels like 71.3°F)
+Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -45,18 +45,18 @@ M: 37 (0)
 ## Philosophy
 
 Daily Nous
+- [Mini-Heap](https://dailynous.com/2026/08/18/mini-heap-724/)
 - [Two Argument Mapping Tools (guest post)](https://dailynous.com/2026/08/17/two-argument-mapping-tools-guest-post/)
 - [Site Attacked (?)](https://dailynous.com/2026/08/16/site-attacked/)
 - [David Charles (1947-2026)](https://dailynous.com/2026/08/14/david-charles-1947-2026/)
 - [Philosophy Journal Publishes Largely AI-Authored Article — On Purpose (guest post) (updated)](https://dailynous.com/2026/08/13/philosophy-journal-publishes-largely-ai-authored-article-on-purpose-guest-post/)
-- [Universities Experiment with Hidden Grades](https://dailynous.com/2026/08/12/universities-experiments-with-hidden-grades/)
 
 The Philosophers' Cocoon
+- [Tips for illustrating logic’s importance and application to students?](https://philosopherscocoon.com/2026/08/18/tips-for-illustrating-logics-importance-and-application-to-students/)
 - [Supervising MA students who have trouble completing papers on time (or at all)?](https://philosopherscocoon.com/2026/08/14/supervising-ma-students-who-have-trouble-completing-papers-on-time-or-at-all/)
 - [Banning laptops in the (UK) classroom?](https://philosopherscocoon.com/2026/08/13/banning-laptops-in-the-uk-classroom/)
 - [When long review times lead papers to get out of date, frustrating reviewers?](https://philosopherscocoon.com/2026/08/12/when-long-review-times-lead-papers-to-get-out-of-date-frustrating-reviewers/)
 - [Undergrads lacking basic college prep?](https://philosopherscocoon.com/2026/08/10/undergrads-lacking-basic-college-prep/)
-- [Assessing students with an at-home essay without oral exams/software monitoring?](https://philosopherscocoon.com/2026/08/07/assessing-students-with-an-at-home-essay-without-oral-exams-software-monitoring/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
