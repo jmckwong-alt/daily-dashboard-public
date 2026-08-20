@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Thursday, August 20, 2026**
-*Updated 5:59 PM*
+*Updated 7:58 PM*
 
 ---
 
@@ -9,33 +9,26 @@
 
 ## ☀️ Boone Weather
 Boone
-76.4°F (feels like 78.1°F)
-Overcast
+78.0°F (feels like 80.7°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 19, 2026
-Score: Blue Jays 6 — Tampa Bay Rays 7
+Last game: August 20, 2026
+Score: Blue Jays 5 — Tampa Bay Rays 1
 
 How the runs were scored:
-• Bottom 1: Yandy Díaz homers (19) on a fly ball to left center field. Junior Caminero scores.
-• Top 4: Alejandro Kirk homers (7) on a fly ball to left field.
-• Bottom 4: Richie Palacios doubles (12) on a fly ball to left fielder Jesús Sánchez. Yandy Díaz scores. Liam Hicks scores. Cedric Mullins to 3rd.
-• Bottom 4: Taylor Walls hits a sacrifice bunt. Cedric Mullins scores. Richie Palacios to 3rd. Taylor Walls to 1st.
-• Bottom 4: Rays challenged (play at 1st), call on the field was overturned: Chandler Simpson singles on a bunt ground ball to pitcher Max Scherzer. Richie Palacios scores. Taylor Walls to 2nd.
-• Bottom 4: Junior Caminero grounds out, shortstop Andrés Giménez to first baseman Kazuma Okamoto. Taylor Walls scores.
-• Top 5: Charles McAdoo singles on a sharp ground ball to right fielder Ryan Vilade. Josh Smith scores. Brandon Valenzuela to 2nd.
-• Top 5: Nathan Lukes out on a sacrifice fly to left fielder Chandler Simpson. Brandon Valenzuela scores.
-• Top 5: Alejandro Kirk singles on a sharp line drive to center fielder Cedric Mullins. Charles McAdoo scores. Myles Straw to 3rd.
-• Top 5: Kazuma Okamoto singles on a line drive to left fielder Chandler Simpson. Myles Straw scores. Alejandro Kirk to 2nd.
-• Top 6: Charles McAdoo doubles (2) on a line drive to left fielder Chandler Simpson. Josh Smith scores.
+• Top 2: Kazuma Okamoto homers (26) on a fly ball to left field.
+• Bottom 4: Junior Caminero singles on a sharp line drive to left fielder Daz Cameron. Chandler Simpson scores.
+• Top 5: Nathan Lukes homers (7) on a fly ball to right field.
+• Top 5: Daz Cameron homers (1) on a fly ball to left field.
+• Top 7: George Springer singles on a ground ball to right fielder Jonny DeLuca. Charles McAdoo scores. Daz Cameron scores. Alejandro Kirk to 3rd.
 
-Wild Card: Blue Jays: 1 GB
+Wild Card: Blue Jays: 0.5 GB
 Teams ahead:
 1. Yankees — +9
 2. Red Sox — +5.5
 3. Twins — 0 GB
-4. Rangers — 0.5 GB
 
 
 📚 Google Scholar
@@ -82,10 +75,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [What is it like to be a philosopher?  Briana Toole edition](https://leiterreports.com/2026/08/20/what-is-it-like-to-be-a-philosopher-briana-toole-edition/)
 - [Reaction formation watch:  Republican politician in Florida who proposed the death penalty for pedophiles&#8230;](https://leiterreports.com/2026/08/19/reaction-formation-watch-republican-politician-in-florida-who-proposed-the-death-penalty-for-pedophiles/)
 - [Petition to save philosophy at the University of Dundee](https://leiterreports.com/2026/08/18/petition-to-save-philosophy-at-the-university-of-dundee/)
 - [Tyler Harper on the Arday affair&#8230;](https://leiterreports.com/2026/08/17/tyler-harper-on-the-arday-affair/)
-- [Habermas&#8217;s destruction of the Frankfurt School, an ongoing saga](https://leiterreports.com/2026/08/17/habermass-destruction-of-the-frankfurt-school-an-ongoing-saga/)
 
 
 ==========================================
