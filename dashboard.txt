@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
-**Wednesday, August 19, 2026**
-*Updated 11:42 PM*
+**Thursday, August 20, 2026**
+*Updated 3:09 AM*
 
 ---
 
@@ -9,32 +9,33 @@
 
 ## ☀️ Boone Weather
 Boone
-73.3°F (feels like 74.8°F)
+67.9°F (feels like 70.3°F)
 Clear
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 18, 2026
-Score: Blue Jays 10 — Tampa Bay Rays 5
+Last game: August 19, 2026
+Score: Blue Jays 6 — Tampa Bay Rays 7
 
 How the runs were scored:
-• Top 1: George Springer singles on a line drive to center fielder Cedric Mullins. Alejandro Kirk scores.
-• Top 1: Jesús Sánchez doubles (16) on a fly ball to left fielder Chandler Simpson. George Springer scores.
-• Top 3: Alejandro Kirk homers (6) on a fly ball to left center field. Nathan Lukes scores.
-• Top 4: Alejandro Kirk singles on a ground ball to second baseman Richie Palacios. Ernie Clement scores. Brett Bateman to 3rd.
-• Bottom 4: Taylor Walls singles on a ground ball to center fielder Brett Bateman. Cedric Mullins scores. Richie Palacios scores.
-• Top 5: Kazuma Okamoto homers (25) on a fly ball to left center field.
-• Top 5: Brett Bateman singles on a line drive to left fielder Chandler Simpson. Ernie Clement scores.
-• Top 7: Josh Smith homers (3) on a line drive to right field. Ernie Clement scores.
-• Bottom 8: Cedric Mullins out on a sacrifice fly to left fielder Myles Straw. Yandy Díaz scores. Liam Hicks to 3rd.
-• Bottom 8: Richie Palacios out on a sacrifice fly to left fielder Myles Straw. Liam Hicks scores.
+• Bottom 1: Yandy Díaz homers (19) on a fly ball to left center field. Junior Caminero scores.
+• Top 4: Alejandro Kirk homers (7) on a fly ball to left field.
+• Bottom 4: Richie Palacios doubles (12) on a fly ball to left fielder Jesús Sánchez. Yandy Díaz scores. Liam Hicks scores. Cedric Mullins to 3rd.
+• Bottom 4: Taylor Walls hits a sacrifice bunt. Cedric Mullins scores. Richie Palacios to 3rd. Taylor Walls to 1st.
+• Bottom 4: Rays challenged (play at 1st), call on the field was overturned: Chandler Simpson singles on a bunt ground ball to pitcher Max Scherzer. Richie Palacios scores. Taylor Walls to 2nd.
+• Bottom 4: Junior Caminero grounds out, shortstop Andrés Giménez to first baseman Kazuma Okamoto. Taylor Walls scores.
+• Top 5: Charles McAdoo singles on a sharp ground ball to right fielder Ryan Vilade. Josh Smith scores. Brandon Valenzuela to 2nd.
+• Top 5: Nathan Lukes out on a sacrifice fly to left fielder Chandler Simpson. Brandon Valenzuela scores.
+• Top 5: Alejandro Kirk singles on a sharp line drive to center fielder Cedric Mullins. Charles McAdoo scores. Myles Straw to 3rd.
+• Top 5: Kazuma Okamoto singles on a line drive to left fielder Chandler Simpson. Myles Straw scores. Alejandro Kirk to 2nd.
+• Top 6: Charles McAdoo doubles (2) on a line drive to left fielder Chandler Simpson. Josh Smith scores.
 
-Wild Card: Blue Jays: 0.5 GB
+Wild Card: Blue Jays: 1 GB
 Teams ahead:
-1. Yankees — +8.5
+1. Yankees — +9
 2. Red Sox — +5.5
-3. Rangers — 0 GB
-4. Twins — 0 GB
+3. Twins — 0 GB
+4. Rangers — 0.5 GB
 
 
 📚 Google Scholar
