@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Friday, August 21, 2026**
-*Updated 2:20 PM*
+*Updated 4:02 PM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-66.0°F (feels like 69.5°F)
-Heavy rain
+69.9°F (feels like 72.2°F)
+Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -43,11 +43,11 @@ M: 37 (0)
 ## Philosophy
 
 Daily Nous
+- [Tom Rockmore (1942-2026)](https://dailynous.com/2026/08/21/tom-rockmore-1942-2026/)
 - [Academic Philosophy and Trans Identity Survey (guest post)](https://dailynous.com/2026/08/20/academic-philosophy-and-trans-identity-survey-guest-post/)
 - [Revisiting “Slow Philosophy”](https://dailynous.com/2026/08/19/revisiting-slow-philosophy/)
 - [Mini-Heap](https://dailynous.com/2026/08/18/mini-heap-724/)
 - [Two Argument Mapping Tools (guest post)](https://dailynous.com/2026/08/17/two-argument-mapping-tools-guest-post/)
-- [Site Attacked (?)](https://dailynous.com/2026/08/16/site-attacked/)
 
 The Philosophers' Cocoon
 - [Using a chapter from a book manuscript (under contract) as a writing sample?](https://philosopherscocoon.com/2026/08/21/using-a-chapter-from-a-book-manuscript-under-contract-as-a-writing-sample/)
