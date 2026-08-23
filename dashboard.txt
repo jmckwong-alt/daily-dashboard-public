@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Sunday, August 23, 2026**
-*Updated 12:01 AM*
+*Updated 3:36 AM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-71.4°F (feels like 73.1°F)
-Overcast
+65.0°F (feels like 65.2°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -25,11 +25,12 @@ How the runs were scored:
 • Top 8: Nathan Lukes homers (8) on a fly ball to right field.
 • Bottom 8: Luis García Jr. homers (26) on a fly ball to right field. Ben Rice scores.
 
-Wild Card: Blue Jays: 1 GB
+Wild Card: Blue Jays: 0.5 GB
 Teams ahead:
-1. Yankees — +9
-2. Red Sox — +5.5
-3. Rangers — 0 GB
+1. Yankees — +9.5
+2. Red Sox — +6.5
+3. Guardians — 0 GB
+4. Rangers — 0 GB
 
 
 📚 Google Scholar
