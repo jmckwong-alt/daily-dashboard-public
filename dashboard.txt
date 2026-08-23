@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Sunday, August 23, 2026**
-*Updated 10:01 PM*
+*Updated 11:39 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-70.4°F (feels like 67.6°F)
+67.5°F (feels like 66.3°F)
 Clear
 ---
 
@@ -32,8 +32,8 @@ Wild Card: Blue Jays: 1.5 GB
 Teams ahead:
 1. Yankees — +9.5
 2. Red Sox — +6.5
-3. Rangers — 0 GB
-4. Guardians — 0.5 GB
+3. Guardians — 0 GB
+4. Rangers — 0 GB
 
 
 📚 Google Scholar
