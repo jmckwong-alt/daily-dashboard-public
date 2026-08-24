@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, August 24, 2026**
-*Updated 9:29 AM*
+*Updated 11:05 AM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-56.9°F (feels like 54.1°F)
+56.1°F (feels like 53.0°F)
 Clear
 ---
 
@@ -47,11 +47,11 @@ M: 37 (0)
 ## Philosophy
 
 Daily Nous
+- [After Experiment, Journal Decides to Prohibit AI-Authored Content](https://dailynous.com/2026/08/24/after-experiment-journal-decides-to-prohibit-ai-authored-content/)
+- [Cofnas Suspended by Ghent University](https://dailynous.com/2026/08/24/cofnas-suspended-by-ghent-university/)
 - [Tom Rockmore (1942-2026)](https://dailynous.com/2026/08/21/tom-rockmore-1942-2026/)
 - [Academic Philosophy and Trans Identity Survey (guest post)](https://dailynous.com/2026/08/20/academic-philosophy-and-trans-identity-survey-guest-post/)
 - [Revisiting “Slow Philosophy”](https://dailynous.com/2026/08/19/revisiting-slow-philosophy/)
-- [Mini-Heap](https://dailynous.com/2026/08/18/mini-heap-724/)
-- [Two Argument Mapping Tools (guest post)](https://dailynous.com/2026/08/17/two-argument-mapping-tools-guest-post/)
 
 The Philosophers' Cocoon
 - [Using a chapter from a book manuscript (under contract) as a writing sample?](https://philosopherscocoon.com/2026/08/21/using-a-chapter-from-a-book-manuscript-under-contract-as-a-writing-sample/)
@@ -80,10 +80,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Some skepticism about AI enthusiasm among philosophers](https://leiterreports.com/2026/08/24/some-skepticism-about-ai-enthusiasm-among-philosophers/)
 - [Philosopher Nathan Cofnas, who launched the media frenzy about Jason Arday, has been suspended by Ghent University in Belgium&#8230;](https://leiterreports.com/2026/08/20/philosopher-nathan-cofnas-who-launched-the-media-frenzy-about-jason-arday-has-been-suspended-by-ghent-university-in-belgium/)
 - [What is it like to be a philosopher?  Briana Toole edition](https://leiterreports.com/2026/08/20/what-is-it-like-to-be-a-philosopher-briana-toole-edition/)
 - [Reaction formation watch:  Republican politician in Florida who proposed the death penalty for pedophiles&#8230;](https://leiterreports.com/2026/08/19/reaction-formation-watch-republican-politician-in-florida-who-proposed-the-death-penalty-for-pedophiles/)
-- [Petition to save philosophy at the University of Dundee](https://leiterreports.com/2026/08/18/petition-to-save-philosophy-at-the-university-of-dundee/)
 
 
 ==========================================
