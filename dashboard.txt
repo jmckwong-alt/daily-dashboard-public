@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, August 25, 2026**
-*Updated 10:04 AM*
+*Updated 11:57 AM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-55.0°F (feels like 52.2°F)
+55.5°F (feels like 52.8°F)
 Clear
 ---
 
@@ -47,11 +47,11 @@ M: 37 (0)
 ## Philosophy
 
 Daily Nous
+- [“Proper education arouses intellectual curiosity”](https://dailynous.com/2026/08/25/proper-education-arouses-intellectual-curiosity/)
 - [After Experiment, Journal Decides to Prohibit AI-Authored Content](https://dailynous.com/2026/08/24/after-experiment-journal-decides-to-prohibit-ai-authored-content/)
 - [Cofnas Suspended by Ghent University (Updated)](https://dailynous.com/2026/08/24/cofnas-suspended-by-ghent-university/)
 - [Tom Rockmore (1942-2026)](https://dailynous.com/2026/08/21/tom-rockmore-1942-2026/)
 - [Academic Philosophy and Trans Identity Survey (guest post)](https://dailynous.com/2026/08/20/academic-philosophy-and-trans-identity-survey-guest-post/)
-- [Revisiting “Slow Philosophy”](https://dailynous.com/2026/08/19/revisiting-slow-philosophy/)
 
 The Philosophers' Cocoon
 - [How do you do public philosophy / community outreach and engagement?](https://philosopherscocoon.com/2026/08/24/how-do-you-do-public-philosophy-community-outreach-and-engagement/)
@@ -80,10 +80,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Nathan Cofnas probably is in violation of Ghent&#8217;s &#8220;Code of Ethics&#8221;&#8230;](https://leiterreports.com/2026/08/25/nathan-cofnas-probably-is-in-violation-of-ghents-code-of-ethics/)
 - [&#8220;The man in the green suit&#8221; (i.e., philosopher Paul Gooch) talks to Nathan Ballantyne&#8230;](https://leiterreports.com/2026/08/24/the-man-in-the-green-suit-i-e-philosopher-paul-gooch-talks-to-nathan-ballantyne/)
 - [Carney, Trump and Tariffs](https://leiterreports.com/2026/08/24/carney-trump-and-tariffs/)
 - [Some skepticism about AI enthusiasm among philosophers](https://leiterreports.com/2026/08/24/some-skepticism-about-ai-enthusiasm-among-philosophers/)
-- [Philosopher Nathan Cofnas, who launched the media frenzy about Jason Arday, has been suspended by Ghent University in Belgium&#8230;](https://leiterreports.com/2026/08/20/philosopher-nathan-cofnas-who-launched-the-media-frenzy-about-jason-arday-has-been-suspended-by-ghent-university-in-belgium/)
 
 
 ==========================================
