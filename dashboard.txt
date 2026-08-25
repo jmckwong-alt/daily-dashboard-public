@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, August 25, 2026**
-*Updated 11:57 AM*
+*Updated 3:26 PM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-55.5°F (feels like 52.8°F)
-Clear
+68.1°F (feels like 69.4°F)
+Partly cloudy
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -47,29 +47,29 @@ M: 37 (0)
 ## Philosophy
 
 Daily Nous
+- [Mini-Heap](https://dailynous.com/2026/08/25/mini-heap-725/)
 - [“Proper education arouses intellectual curiosity”](https://dailynous.com/2026/08/25/proper-education-arouses-intellectual-curiosity/)
 - [After Experiment, Journal Decides to Prohibit AI-Authored Content](https://dailynous.com/2026/08/24/after-experiment-journal-decides-to-prohibit-ai-authored-content/)
 - [Cofnas Suspended by Ghent University (Updated)](https://dailynous.com/2026/08/24/cofnas-suspended-by-ghent-university/)
 - [Tom Rockmore (1942-2026)](https://dailynous.com/2026/08/21/tom-rockmore-1942-2026/)
-- [Academic Philosophy and Trans Identity Survey (guest post)](https://dailynous.com/2026/08/20/academic-philosophy-and-trans-identity-survey-guest-post/)
 
 The Philosophers' Cocoon
+- [What to do in cases of severe delays with journals (and when to withdraw a paper)?](https://philosopherscocoon.com/2026/08/25/what-to-do-in-cases-of-severe-delays-with-journals-and-when-to-withdraw-a-paper/)
 - [How do you do public philosophy / community outreach and engagement?](https://philosopherscocoon.com/2026/08/24/how-do-you-do-public-philosophy-community-outreach-and-engagement/)
 - [Using a chapter from a book manuscript (under contract) as a writing sample?](https://philosopherscocoon.com/2026/08/21/using-a-chapter-from-a-book-manuscript-under-contract-as-a-writing-sample/)
 - [How to list Continental Philosophy and History of Philosophy on a CV?](https://philosopherscocoon.com/2026/08/19/how-to-list-continental-philosophy-and-history-of-philosophy-on-a-cv/)
 - [Tips for illustrating logic’s importance and application to students?](https://philosopherscocoon.com/2026/08/18/tips-for-illustrating-logics-importance-and-application-to-students/)
-- [Supervising MA students who have trouble completing papers on time (or at all)?](https://philosopherscocoon.com/2026/08/14/supervising-ma-students-who-have-trouble-completing-papers-on-time-or-at-all/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
 PhilArchive
 
 The Brains Blog
+- [Peter Langland-Hassan:  Are there Words in My Head?](https://philosophyofbrains.com/2026/08/25/peter-langland-hassan-are-there-words-in-my-head.aspx)
 - [Daniel Gregory:  Introduction to the Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/daniel-gregory-introduction-to-the-symposium-on-inner-speech.aspx)
 - [This Week:  Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/this-week-symposium-on-inner-speech.aspx)
 - [How Boolean logic saved millions of lives](https://philosophyofbrains.com/2026/08/11/how-boolean-logic-saved-millions-of-lives.aspx)
 - [Kim Soland:  Pain Intensities](https://philosophyofbrains.com/2026/07/24/kim-soland-pain-intensities.aspx)
-- [Caitlin Mace:  Vehicle Indeterminacy in Memory Neuroscience](https://philosophyofbrains.com/2026/07/23/caitlin-mace-vehicle-indeterminacy-in-memory-neuroscience.aspx)
 
 PEA Soup
 - [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
@@ -80,10 +80,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Johns Hopkins President Ron Daniels&#8217; continuing war on academic freedom](https://leiterreports.com/2026/08/25/johns-hopkins-president-ron-daniels-continuing-war-on-academic-freedom/)
 - [Nathan Cofnas probably is in violation of Ghent&#8217;s &#8220;Code of Ethics&#8221;&#8230;](https://leiterreports.com/2026/08/25/nathan-cofnas-probably-is-in-violation-of-ghents-code-of-ethics/)
 - [&#8220;The man in the green suit&#8221; (i.e., philosopher Paul Gooch) talks to Nathan Ballantyne&#8230;](https://leiterreports.com/2026/08/24/the-man-in-the-green-suit-i-e-philosopher-paul-gooch-talks-to-nathan-ballantyne/)
 - [Carney, Trump and Tariffs](https://leiterreports.com/2026/08/24/carney-trump-and-tariffs/)
-- [Some skepticism about AI enthusiasm among philosophers](https://leiterreports.com/2026/08/24/some-skepticism-about-ai-enthusiasm-among-philosophers/)
 
 
 ==========================================
