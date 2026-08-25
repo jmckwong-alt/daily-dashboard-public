@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
-**Monday, August 24, 2026**
-*Updated 11:41 PM*
+**Tuesday, August 25, 2026**
+*Updated 3:14 AM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-67.2°F (feels like 66.0°F)
-Clear
+60.4°F (feels like 58.7°F)
+Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -31,9 +31,9 @@ How the runs were scored:
 Wild Card: Blue Jays: 1.5 GB
 Teams ahead:
 1. Yankees — +9.5
-2. Red Sox — +6.5
-3. Guardians — 0 GB
-4. Rangers — 0 GB
+2. Red Sox — +7
+3. Astros — 0 GB
+4. Guardians — 0 GB
 
 
 📚 Google Scholar
