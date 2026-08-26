@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, August 26, 2026**
-*Updated 11:59 AM*
+*Updated 4:36 PM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-58.2°F (feels like 57.8°F)
-Clear
+72.3°F (feels like 75.8°F)
+Partly cloudy
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -46,29 +46,29 @@ M: 37 (0)
 ## Philosophy
 
 Daily Nous
+- [Creel from Northeastern to Michigan](https://dailynous.com/2026/08/26/creel-from-northeastern-to-michigan/)
+- [De Brigard and Robins Win 2026 Lebowitz Prize](https://dailynous.com/2026/08/26/de-brigard-and-robins-win-2026-lebowitz-prize/)
+- [Gabriele Taylor (1927-2026)](https://dailynous.com/2026/08/26/gabriele-taylor-1927-2026/)
 - [Mini-Heap](https://dailynous.com/2026/08/25/mini-heap-725/)
 - [“Proper education arouses intellectual curiosity”](https://dailynous.com/2026/08/25/proper-education-arouses-intellectual-curiosity/)
-- [After Experiment, Journal Decides to Prohibit AI-Authored Content](https://dailynous.com/2026/08/24/after-experiment-journal-decides-to-prohibit-ai-authored-content/)
-- [Cofnas Suspended by Ghent University (multiple updates)](https://dailynous.com/2026/08/24/cofnas-suspended-by-ghent-university/)
-- [Tom Rockmore (1942-2026)](https://dailynous.com/2026/08/21/tom-rockmore-1942-2026/)
 
 The Philosophers' Cocoon
+- [How do you divide up your reading time?](https://philosopherscocoon.com/2026/08/26/how-do-you-divide-your-reading-time/)
 - [What to do in cases of severe delays with journals (and when to withdraw a paper)?](https://philosopherscocoon.com/2026/08/25/what-to-do-in-cases-of-severe-delays-with-journals-and-when-to-withdraw-a-paper/)
 - [How do you do public philosophy / community outreach and engagement?](https://philosopherscocoon.com/2026/08/24/how-do-you-do-public-philosophy-community-outreach-and-engagement/)
 - [Using a chapter from a book manuscript (under contract) as a writing sample?](https://philosopherscocoon.com/2026/08/21/using-a-chapter-from-a-book-manuscript-under-contract-as-a-writing-sample/)
 - [How to list Continental Philosophy and History of Philosophy on a CV?](https://philosopherscocoon.com/2026/08/19/how-to-list-continental-philosophy-and-history-of-philosophy-on-a-cv/)
-- [Tips for illustrating logic’s importance and application to students?](https://philosopherscocoon.com/2026/08/18/tips-for-illustrating-logics-importance-and-application-to-students/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
 PhilArchive
 
 The Brains Blog
+- [Wade Munroe: Inner Speech, Speech Acts, and the Metaphysics of Language](https://philosophyofbrains.com/2026/08/26/wade-munroe-inner-speech-speech-acts-and-the-metaphysics-of-language.aspx)
 - [Peter Langland-Hassan:  Are there Words in My Head?](https://philosophyofbrains.com/2026/08/25/peter-langland-hassan-are-there-words-in-my-head.aspx)
 - [Daniel Gregory:  Introduction to the Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/daniel-gregory-introduction-to-the-symposium-on-inner-speech.aspx)
 - [This Week:  Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/this-week-symposium-on-inner-speech.aspx)
 - [How Boolean logic saved millions of lives](https://philosophyofbrains.com/2026/08/11/how-boolean-logic-saved-millions-of-lives.aspx)
-- [Kim Soland:  Pain Intensities](https://philosophyofbrains.com/2026/07/24/kim-soland-pain-intensities.aspx)
 
 PEA Soup
 - [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
@@ -79,10 +79,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Life in authoritarian America,  a case in point](https://leiterreports.com/2026/08/26/life-in-authoritarian-america-a-case-in-point/)
+- [In Memoriam:  Gabriele Taylor (1927-2026)](https://leiterreports.com/2026/08/26/in-memoriam-gabriele-taylor-1927-2026/)
 - [Blast from the past:  &#8220;How Trump Can Attack Higher Education:  A Guide&#8221;](https://leiterreports.com/2026/08/26/blast-from-the-past-how-trump-can-attack-higher-education-a-guide/)
 - [Against viewpoint diversity](https://leiterreports.com/2026/08/25/against-viewpoint-diversity/)
-- [Johns Hopkins President Ron Daniels&#8217; continuing war on academic freedom](https://leiterreports.com/2026/08/25/johns-hopkins-president-ron-daniels-continuing-war-on-academic-freedom/)
-- [Nathan Cofnas probably is in violation of Ghent&#8217;s &#8220;Code of Ethics&#8221;&#8230;](https://leiterreports.com/2026/08/25/nathan-cofnas-probably-is-in-violation-of-ghents-code-of-ethics/)
 
 
 ==========================================
