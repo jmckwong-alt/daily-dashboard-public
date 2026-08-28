@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Friday, August 28, 2026**
-*Updated 1:29 AM*
+*Updated 9:54 PM*
 
 ---
 
@@ -9,23 +9,33 @@
 
 ## ☀️ Boone Weather
 Boone
-68.1°F (feels like 72.6°F)
-Clear
+74.3°F (feels like 79.5°F)
+Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 26, 2026
-Score: Blue Jays 3 — Kansas City Royals 0
+Last game: August 27, 2026
+Score: Blue Jays 2 — Kansas City Royals 13
 
 How the runs were scored:
-• Bottom 4: Nathan Lukes homers (9) on a fly ball to right center field. Jesús Sánchez scores. Kazuma Okamoto scores.
+• Top 1: Carter Jensen homers (18) on a fly ball to right field.
+• Top 1: Salvador Perez reaches on a fielder's choice. Bobby Witt Jr. scores. Jac Caglianone to 2nd. Fielding error by pitcher Spencer Arrighetti.
+• Top 2: Jac Caglianone singles on a line drive to right fielder Nathan Lukes. Josh Rojas scores. Bobby Witt Jr. scores.
+• Top 6: Kyle Isbel doubles (9) on a line drive to center fielder Myles Straw. Josh Rojas scores.
+• Top 6: Bobby Witt Jr. doubles (27) on a sharp line drive to left fielder Daz Cameron. Kyle Isbel scores. Carter Jensen to 3rd.
+• Top 6: Jac Caglianone singles on a sharp line drive to right fielder Nathan Lukes. Carter Jensen scores. Bobby Witt Jr. scores.
+• Top 6: Vinnie Pasquantino homers (9) on a fly ball to right field. Jac Caglianone scores.
+• Bottom 6: George Springer homers (13) on a fly ball to center field. Alejandro Kirk scores.
+• Top 8: Vinnie Pasquantino singles on a ground ball to right fielder Nathan Lukes. Jac Caglianone scores.
+• Top 9: Jac Caglianone homers (23) on a fly ball to right field. Tyler Tolbert scores.
 
-Wild Card: Blue Jays: 3 GB
+Wild Card: Blue Jays: 3.5 GB
 Teams ahead:
-1. Yankees — +8
+1. Yankees — +7.5
 2. Red Sox — +5.5
 3. Guardians — 0 GB
 4. Rangers — 2 GB
+5. Orioles — 3 GB
 
 
 📚 Google Scholar
@@ -39,11 +49,11 @@ M: 37 (0)
 ## Philosophy
 
 Daily Nous
+- [Philosophy at Dundee Saved—In Part, For Now (guest post)](https://dailynous.com/2026/08/28/philosophy-at-dundee-saved-in-part-for-now-guest-post/)
+- [Bettcher from Cal State LA to Waterloo](https://dailynous.com/2026/08/28/bettcher-from-cal-state-la-to-waterloo/)
 - [Careful with those Accusations](https://dailynous.com/2026/08/27/careful-with-those-accusations/)
 - [The Public’s Opinion about Philosophy in Universities](https://dailynous.com/2026/08/27/the-publics-opinion-about-philosophy-in-universities/)
 - [Creel from Northeastern to Michigan](https://dailynous.com/2026/08/26/creel-from-northeastern-to-michigan/)
-- [De Brigard and Robins Win 2026 Lebowitz Prize](https://dailynous.com/2026/08/26/de-brigard-and-robins-win-2026-lebowitz-prize/)
-- [Gabriele Taylor (1927-2026)](https://dailynous.com/2026/08/26/gabriele-taylor-1927-2026/)
 
 The Philosophers' Cocoon
 - [Is it problematic to use the same argument to defend different theses in different papers?](https://philosopherscocoon.com/2026/08/27/is-it-problematic-to-use-the-same-argument-to-defend-different-theses-in-different-papers/)
@@ -57,11 +67,11 @@ APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 PhilArchive
 
 The Brains Blog
+- [Daniel Gregory: Signed Inner Speech](https://philosophyofbrains.com/2026/08/28/daniel-gregory-signed-inner-speech.aspx)
 - [Marta Jorba: Do we know what we think before saying it to ourselves?](https://philosophyofbrains.com/2026/08/27/marta-jorba-do-we-know-what-we-think-before-saying-it-to-ourselves.aspx)
 - [Wade Munroe: Inner Speech, Speech Acts, and the Metaphysics of Language](https://philosophyofbrains.com/2026/08/26/wade-munroe-inner-speech-speech-acts-and-the-metaphysics-of-language.aspx)
 - [Peter Langland-Hassan:  Are there Words in My Head?](https://philosophyofbrains.com/2026/08/25/peter-langland-hassan-are-there-words-in-my-head.aspx)
 - [Daniel Gregory:  Introduction to the Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/daniel-gregory-introduction-to-the-symposium-on-inner-speech.aspx)
-- [This Week:  Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/this-week-symposium-on-inner-speech.aspx)
 
 PEA Soup
 - [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
@@ -72,10 +82,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
-- [Searle on P.F. Strawson](https://leiterreports.com/2026/08/27/searle-on-p-f-strawson/)
-- [Israel is now bad for the Jews](https://leiterreports.com/2026/08/27/israel-is-now-bad-for-the-jews/)
-- [Here&#8217;s how the Republican steal the midterm elections in the House](https://leiterreports.com/2026/08/27/heres-how-the-republican-steal-the-midterm-elections-in-the-house/)
-- [Advertising update](https://leiterreports.com/2026/08/26/advertising-update-48/)
+- [Universities get a (partial) reprieve on the 100k H-1B visas, but international students will still face potential obsctacles](https://leiterreports.com/2026/08/28/universities-get-a-partial-reprieve-on-the-100k-h-1b-visas-but-international-students-will-still-face-potential-obsctacles/)
+- [Why I did not sign the most recent open letter in support of Nathan Cofnas&#8217;s &#8220;academic freedom&#8221; [sic]](https://leiterreports.com/2026/08/28/why-i-did-not-sign-the-most-recent-open-letter-in-support-of-nathan-cofnass-academic-freedom-sic/)
+- [Some skepticism about AI enthusiasm among philosophers](https://leiterreports.com/2026/08/28/some-skepticism-about-ai-enthusiasm-among-philosophers/)
+- [Anonymous person falsely accuses junior scholar of using generative AI in writing an article in the online, open access journal &#8220;Political Philosophy&#8221;](https://leiterreports.com/2026/08/28/anonymous-person-falsely-accuses-junior-scholar-of-using-generative-ai-in-writing-an-article-in-the-online-open-access-journal-political-philosophy/)
 
 
 ==========================================
