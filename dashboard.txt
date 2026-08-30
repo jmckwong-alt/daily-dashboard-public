@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Sunday, August 30, 2026**
-*Updated 8:03 PM*
+*Updated 10:56 PM*
 
 ---
 
@@ -9,25 +9,25 @@
 
 ## ☀️ Boone Weather
 Boone
-77.9°F (feels like 80.9°F)
-Mostly clear
+75.3°F (feels like 78.8°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 29, 2026
-Score: Blue Jays 4 — Seattle Mariners 3
+Last game: August 30, 2026
+Score: Blue Jays 7 — Seattle Mariners 0
 
 How the runs were scored:
-• Top 2: Cal Raleigh homers (19) on a fly ball to right field.
-• Top 4: Taylor Ward singles on a sharp line drive to left fielder Daz Cameron. Josh Naylor scores. Cal Raleigh scores. Cole Young to 2nd.
-• Bottom 5: George Springer walks. Myles Straw scores. Brett Bateman scores. Vladimir Guerrero Jr. to 3rd. Wild pitch by pitcher Eduard Bazardo.
-• Bottom 6: Brett Bateman singles on a ground ball to left fielder Randy Arozarena. Charles McAdoo scores. Myles Straw to 2nd.
-• Bottom 6: Alejandro Kirk singles on a line drive to right fielder Dominic Canzone. Myles Straw scores. Brett Bateman to 3rd.
+• Bottom 1: Alejandro Kirk homers (8) on a fly ball to left center field. Brett Bateman scores.
+• Bottom 5: Vladimir Guerrero Jr. doubles (22) on a sharp ground ball to left fielder Randy Arozarena. Myles Straw scores.
+• Bottom 6: Kazuma Okamoto homers (28) on a fly ball to center field.
+• Bottom 8: Andrés Giménez singles on a line drive to center fielder Julio Rodríguez. George Springer scores. Nathan Lukes scores. Kazuma Okamoto to 2nd.
+• Bottom 8: Brett Bateman doubles (4) on a line drive to left fielder Randy Arozarena. Kazuma Okamoto scores. Myles Straw to 3rd.
 
 Wild Card: Blue Jays: 1.5 GB
 Teams ahead:
 1. Yankees — +9
-2. Red Sox — +6
+2. Red Sox — +5
 3. Guardians — 0 GB
 4. Orioles — 1 GB
 
@@ -67,12 +67,7 @@ The Brains Blog
 - [Peter Langland-Hassan:  Are there Words in My Head?](https://philosophyofbrains.com/2026/08/25/peter-langland-hassan-are-there-words-in-my-head.aspx)
 - [Daniel Gregory:  Introduction to the Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/daniel-gregory-introduction-to-the-symposium-on-inner-speech.aspx)
 
-PEA Soup
-- [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
-- [Ethics Discussion: Kimberley Brownlee & Alyssa Izatt – Justice for Girls: On the Provision of Abortion as Adequate Care.](https://peasoupblog.com/2026/04/ethics-discussion-kimberley-brownlee-alyssa-izatt-justice-for-girls-on-the-provision-of-abortion-as-adequate-care/)
-- [Call for Abstracts: Ethics at Notre Dame Symposium (ENDs) 2027](https://peasoupblog.com/2026/04/call-for-abstracts-ethics-at-notre-dame-symposium-ends-2027/)
-- [Announcement: Justice for Girls: On the Provision of Abortion as Adequate Care. With Kimberley Brownlee, Alyssa Izatt and Japa Pallikkathayil](https://peasoupblog.com/2026/04/announcement-justice-for-girls-on-the-provision-of-abortion-as-adequate-care-with-kimberley-brownlee-alyssa-izatt-and-japa-pallikkathayil/)
-- [Ethics: Julian Jonker & Brookes Brown – A Dilemma for Expressive Arguments Against Markets](https://peasoupblog.com/2026/03/ethics-julian-jonker-brookes-brown-a-dilemma-for-expressive-arguments-against-markets/)
+PEA Soup: unable to retrieve feed (HTTP Error 403: Forbidden)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
