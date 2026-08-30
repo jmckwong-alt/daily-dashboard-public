@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
-**Saturday, August 29, 2026**
-*Updated 9:58 PM*
+**Sunday, August 30, 2026**
+*Updated 12:44 AM*
 
 ---
 
@@ -9,32 +9,26 @@
 
 ## ☀️ Boone Weather
 Boone
-73.4°F (feels like 75.8°F)
+68.2°F (feels like 72.1°F)
 Mostly clear
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 28, 2026
-Score: Blue Jays 8 — Seattle Mariners 1
+Last game: August 29, 2026
+Score: Blue Jays 4 — Seattle Mariners 3
 
 How the runs were scored:
-• Top 1: Dominic Canzone homers (20) on a fly ball to right center field.
-• Bottom 1: Vladimir Guerrero Jr. doubles (21) on a ground ball to left fielder Randy Arozarena. Brett Bateman scores.
-• Bottom 1: Kazuma Okamoto out on a sacrifice fly to right fielder Taylor Ward. Vladimir Guerrero Jr. scores. George Springer to 3rd.
-• Bottom 1: Andrés Giménez singles on a ground ball to center fielder Julio Rodríguez. George Springer scores. Jesús Sánchez to 3rd.
-• Bottom 5: Nathan Lukes homers (10) on a fly ball to right field.
-• Bottom 5: George Springer homers (14) on a fly ball to left field.
-• Bottom 6: Kazuma Okamoto homers (27) on a fly ball to left field.
-• Bottom 7: Myles Straw singles on a ground ball to center fielder Julio Rodríguez. Nathan Lukes scores. George Springer to 3rd.
-• Bottom 7: Kazuma Okamoto singles on a ground ball to third baseman J.P. Crawford. George Springer scores. Myles Straw to 2nd.
+• Top 2: Cal Raleigh homers (19) on a fly ball to right field.
+• Top 4: Taylor Ward singles on a sharp line drive to left fielder Daz Cameron. Josh Naylor scores. Cal Raleigh scores. Cole Young to 2nd.
+• Bottom 5: George Springer walks. Myles Straw scores. Brett Bateman scores. Vladimir Guerrero Jr. to 3rd. Wild pitch by pitcher Eduard Bazardo.
+• Bottom 6: Brett Bateman singles on a ground ball to left fielder Randy Arozarena. Charles McAdoo scores. Myles Straw to 2nd.
+• Bottom 6: Alejandro Kirk singles on a line drive to right fielder Dominic Canzone. Myles Straw scores. Brett Bateman to 3rd.
 
-Wild Card: Blue Jays: 2.5 GB
+Wild Card: Blue Jays: 1.5 GB
 Teams ahead:
-1. Yankees — +8
-2. Red Sox — +6
+1. Yankees — +8.5
+2. Red Sox — +6.5
 3. Guardians — 0 GB
-4. Orioles — 2 GB
-5. Rangers — 2 GB
 
 
 📚 Google Scholar
