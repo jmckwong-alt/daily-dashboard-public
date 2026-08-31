@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, August 31, 2026**
-*Updated 7:41 AM*
+*Updated 3:29 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-63.5°F (feels like 63.6°F)
+75.3°F (feels like 79.9°F)
 Clear
 ---
 
@@ -43,18 +43,18 @@ M: 37 (0)
 ## Philosophy
 
 Daily Nous
+- [Bhandary from Iowa to Stony Brook](https://dailynous.com/2026/08/31/bhandary-from-iowa-to-stony-brook/)
+- [Online Philosophy Resources Monthly Update](https://dailynous.com/2026/08/31/online-philosophy-resources-monthly-update-12/)
 - [Philosopher’s Annual for 2025](https://dailynous.com/2026/08/30/philosophers-annual-for-2025/)
 - [Philosophy at Dundee Saved—In Part, For Now (guest post)](https://dailynous.com/2026/08/28/philosophy-at-dundee-saved-in-part-for-now-guest-post/)
 - [Bettcher from Cal State LA to Waterloo](https://dailynous.com/2026/08/28/bettcher-from-cal-state-la-to-waterloo/)
-- [Careful with those Accusations](https://dailynous.com/2026/08/27/careful-with-those-accusations/)
-- [The Public’s Opinion about Philosophy in Universities](https://dailynous.com/2026/08/27/the-publics-opinion-about-philosophy-in-universities/)
 
 The Philosophers' Cocoon
+- [How do search committees weight published books (and presses)?](https://philosopherscocoon.com/2026/08/31/how-do-search-committees-weight-published-books-and-presses/)
 - [Is it problematic to use the same argument to defend different theses in different papers?](https://philosopherscocoon.com/2026/08/27/is-it-problematic-to-use-the-same-argument-to-defend-different-theses-in-different-papers/)
 - [How do you divide up your reading time?](https://philosopherscocoon.com/2026/08/26/how-do-you-divide-your-reading-time/)
 - [What to do in cases of severe delays with journals (and when to withdraw a paper)?](https://philosopherscocoon.com/2026/08/25/what-to-do-in-cases-of-severe-delays-with-journals-and-when-to-withdraw-a-paper/)
 - [How do you do public philosophy / community outreach and engagement?](https://philosopherscocoon.com/2026/08/24/how-do-you-do-public-philosophy-community-outreach-and-engagement/)
-- [Using a chapter from a book manuscript (under contract) as a writing sample?](https://philosopherscocoon.com/2026/08/21/using-a-chapter-from-a-book-manuscript-under-contract-as-a-writing-sample/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -76,10 +76,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Trump Administration targets ABA&#8217;s role as an &#8220;accreditor&#8221; of law schools](https://leiterreports.com/2026/08/31/trump-administration-targets-abas-role-as-an-accreditor-of-law-schools/)
+- [How is post-tenure review working at your (public) university?](https://leiterreports.com/2026/08/31/how-is-post-tenure-review-working-at-your-public-university/)
 - [Philosopher&#8217;s Annual:  from the literature of 2025](https://leiterreports.com/2026/08/30/philosophers-annual-from-the-literature-of-2025/)
 - [UChicago Booth School of Business professor seems, shall we say, surprisingly productive](https://leiterreports.com/2026/08/28/uchicago-booth-school-of-business-professor-seems-shall-we-say-surprisingly-productive/)
-- [Universities get a (partial) reprieve on the 100k H-1B visas, but international students will still face potential obsctacles](https://leiterreports.com/2026/08/28/universities-get-a-partial-reprieve-on-the-100k-h-1b-visas-but-international-students-will-still-face-potential-obsctacles/)
-- [Why I did not sign the most recent open letter in support of Nathan Cofnas&#8217;s &#8220;academic freedom&#8221; [sic]](https://leiterreports.com/2026/08/28/why-i-did-not-sign-the-most-recent-open-letter-in-support-of-nathan-cofnass-academic-freedom-sic/)
 
 
 ==========================================
