@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, September 2, 2026**
-*Updated 1:25 AM*
+*Updated 6:26 AM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-71.2°F (feels like 72.2°F)
+66.3°F (feels like 65.0°F)
 Clear
 ---
 
@@ -24,11 +24,11 @@ How the runs were scored:
 
 Wild Card: Blue Jays: 2.5 GB
 Teams ahead:
-1. Yankees — +8
-2. Red Sox — +5
+1. Yankees — +8.5
+2. Red Sox — +4.5
 3. Guardians — 0 GB
-4. Orioles — 1 GB
-5. Rangers — 2 GB
+4. Orioles — 1.5 GB
+5. Rangers — 1.5 GB
 
 
 📚 Google Scholar
@@ -66,19 +66,14 @@ The Brains Blog
 - [Peter Langland-Hassan:  Are there Words in My Head?](https://philosophyofbrains.com/2026/08/25/peter-langland-hassan-are-there-words-in-my-head.aspx)
 - [Daniel Gregory:  Introduction to the Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/daniel-gregory-introduction-to-the-symposium-on-inner-speech.aspx)
 
-PEA Soup
-- [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
-- [Ethics Discussion: Kimberley Brownlee & Alyssa Izatt – Justice for Girls: On the Provision of Abortion as Adequate Care.](https://peasoupblog.com/2026/04/ethics-discussion-kimberley-brownlee-alyssa-izatt-justice-for-girls-on-the-provision-of-abortion-as-adequate-care/)
-- [Call for Abstracts: Ethics at Notre Dame Symposium (ENDs) 2027](https://peasoupblog.com/2026/04/call-for-abstracts-ethics-at-notre-dame-symposium-ends-2027/)
-- [Announcement: Justice for Girls: On the Provision of Abortion as Adequate Care. With Kimberley Brownlee, Alyssa Izatt and Japa Pallikkathayil](https://peasoupblog.com/2026/04/announcement-justice-for-girls-on-the-provision-of-abortion-as-adequate-care-with-kimberley-brownlee-alyssa-izatt-and-japa-pallikkathayil/)
-- [Ethics: Julian Jonker & Brookes Brown – A Dilemma for Expressive Arguments Against Markets](https://peasoupblog.com/2026/03/ethics-julian-jonker-brookes-brown-a-dilemma-for-expressive-arguments-against-markets/)
+PEA Soup: unable to retrieve feed (HTTP Error 403: Forbidden)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Princeton&#8217;s Daniel Garber elected to the American Philosophical Society](https://leiterreports.com/2026/09/02/princetons-daniel-garber-elected-to-the-american-philosophical-society/)
 - [&#8220;What do you do when you do jurisprudence?  Challenges and New Paths&#8221;](https://leiterreports.com/2026/09/01/what-do-you-do-when-you-do-jurisprudence-challenges-and-new-paths/)
 - [Cottrell from Edinburgh/York U to Toronto](https://leiterreports.com/2026/09/01/cottrell-from-edinburgh-york-u-to-toronto/)
 - [More scams targetting philosophers](https://leiterreports.com/2026/09/01/more-scams-targetting-philosophers/)
-- [Profiles in real courage:  Florimond “Duke” DuSossoit](https://leiterreports.com/2026/09/01/profiles-in-real-courage-florimond-duke-dusossoit/)
 
 
 ==========================================
