@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, September 2, 2026**
-*Updated 6:57 PM*
+*Updated 9:59 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-84.3°F (feels like 89.6°F)
+83.4°F (feels like 86.2°F)
 Clear
 ---
 
@@ -28,7 +28,7 @@ Teams ahead:
 2. Red Sox — +4.5
 3. Guardians — 0 GB
 4. Orioles — 1.5 GB
-5. Rangers — 1.5 GB
+5. Rangers — 2 GB
 
 
 📚 Google Scholar
@@ -66,14 +66,19 @@ The Brains Blog
 - [Peter Langland-Hassan:  Are there Words in My Head?](https://philosophyofbrains.com/2026/08/25/peter-langland-hassan-are-there-words-in-my-head.aspx)
 - [Daniel Gregory:  Introduction to the Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/daniel-gregory-introduction-to-the-symposium-on-inner-speech.aspx)
 
-PEA Soup: unable to retrieve feed (<urlopen error [Errno 101] Network is unreachable>)
+PEA Soup
+- [Applications are now open for the CELPA Mentoring Scheme](https://peasoupblog.com/2026/09/applications-are-now-open-for-the-celpa-mentoring-scheme/)
+- [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
+- [Ethics Discussion: Kimberley Brownlee & Alyssa Izatt – Justice for Girls: On the Provision of Abortion as Adequate Care.](https://peasoupblog.com/2026/04/ethics-discussion-kimberley-brownlee-alyssa-izatt-justice-for-girls-on-the-provision-of-abortion-as-adequate-care/)
+- [Call for Abstracts: Ethics at Notre Dame Symposium (ENDs) 2027](https://peasoupblog.com/2026/04/call-for-abstracts-ethics-at-notre-dame-symposium-ends-2027/)
+- [Announcement: Justice for Girls: On the Provision of Abortion as Adequate Care. With Kimberley Brownlee, Alyssa Izatt and Japa Pallikkathayil](https://peasoupblog.com/2026/04/announcement-justice-for-girls-on-the-provision-of-abortion-as-adequate-care-with-kimberley-brownlee-alyssa-izatt-and-japa-pallikkathayil/)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Scam watch continues:  fake offers to translate](https://leiterreports.com/2026/09/02/scam-watch-continues-fake-offers-to-translate/)
 - [How the Trumpistas silence internal critics](https://leiterreports.com/2026/09/02/how-the-trumpistas-silent-internal-critics/)
 - [From the working class to academic philosophy](https://leiterreports.com/2026/09/02/from-the-working-class-to-academic-philosophy/)
 - [Princeton&#8217;s Daniel Garber elected to the American Philosophical Society](https://leiterreports.com/2026/09/02/princetons-daniel-garber-elected-to-the-american-philosophical-society/)
-- [&#8220;What do you do when you do jurisprudence?  Challenges and New Paths&#8221;](https://leiterreports.com/2026/09/01/what-do-you-do-when-you-do-jurisprudence-challenges-and-new-paths/)
 
 
 ==========================================
