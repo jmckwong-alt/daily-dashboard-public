@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, September 2, 2026**
-*Updated 6:26 AM*
+*Updated 11:44 AM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-66.3°F (feels like 65.0°F)
+66.1°F (feels like 65.6°F)
 Clear
 ---
 
@@ -66,7 +66,12 @@ The Brains Blog
 - [Peter Langland-Hassan:  Are there Words in My Head?](https://philosophyofbrains.com/2026/08/25/peter-langland-hassan-are-there-words-in-my-head.aspx)
 - [Daniel Gregory:  Introduction to the Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/daniel-gregory-introduction-to-the-symposium-on-inner-speech.aspx)
 
-PEA Soup: unable to retrieve feed (HTTP Error 403: Forbidden)
+PEA Soup
+- [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
+- [Ethics Discussion: Kimberley Brownlee & Alyssa Izatt – Justice for Girls: On the Provision of Abortion as Adequate Care.](https://peasoupblog.com/2026/04/ethics-discussion-kimberley-brownlee-alyssa-izatt-justice-for-girls-on-the-provision-of-abortion-as-adequate-care/)
+- [Call for Abstracts: Ethics at Notre Dame Symposium (ENDs) 2027](https://peasoupblog.com/2026/04/call-for-abstracts-ethics-at-notre-dame-symposium-ends-2027/)
+- [Announcement: Justice for Girls: On the Provision of Abortion as Adequate Care. With Kimberley Brownlee, Alyssa Izatt and Japa Pallikkathayil](https://peasoupblog.com/2026/04/announcement-justice-for-girls-on-the-provision-of-abortion-as-adequate-care-with-kimberley-brownlee-alyssa-izatt-and-japa-pallikkathayil/)
+- [Ethics: Julian Jonker & Brookes Brown – A Dilemma for Expressive Arguments Against Markets](https://peasoupblog.com/2026/03/ethics-julian-jonker-brookes-brown-a-dilemma-for-expressive-arguments-against-markets/)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
