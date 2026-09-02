@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
-**Tuesday, September 1, 2026**
-*Updated 10:50 PM*
+**Wednesday, September 2, 2026**
+*Updated 1:25 AM*
 
 ---
 
@@ -9,27 +9,26 @@
 
 ## ☀️ Boone Weather
 Boone
-80.3°F (feels like 84.8°F)
+71.2°F (feels like 72.2°F)
 Clear
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: August 30, 2026
-Score: Blue Jays 7 — Seattle Mariners 0
+Last game: September 1, 2026
+Score: Blue Jays 1 — Cleveland Guardians 6
 
 How the runs were scored:
-• Bottom 1: Alejandro Kirk homers (8) on a fly ball to left center field. Brett Bateman scores.
-• Bottom 5: Vladimir Guerrero Jr. singles on a sharp ground ball to left fielder Randy Arozarena. Myles Straw scores. Vladimir Guerrero Jr. to 2nd.
-• Bottom 6: Kazuma Okamoto homers (28) on a fly ball to center field.
-• Bottom 8: Andrés Giménez singles on a line drive to center fielder Julio Rodríguez. George Springer scores. Nathan Lukes scores. Kazuma Okamoto to 2nd.
-• Bottom 8: Brett Bateman doubles (4) on a line drive to left fielder Randy Arozarena. Kazuma Okamoto scores. Myles Straw to 3rd.
+• Bottom 5: Patrick Bailey homers (8) on a fly ball to center field. Angel Martínez scores.
+• Bottom 7: Angel Genao homers (2) on a fly ball to left field. Angel Martínez scores.
+• Bottom 8: Angel Martínez homers (14) on a fly ball to right center field. Petey Halpin scores.
 
-Wild Card: Blue Jays: 1.5 GB
+Wild Card: Blue Jays: 2.5 GB
 Teams ahead:
-1. Yankees — +8.5
-2. Red Sox — +5.5
+1. Yankees — +8
+2. Red Sox — +5
 3. Guardians — 0 GB
-4. Orioles — 0.5 GB
+4. Orioles — 1 GB
+5. Rangers — 2 GB
 
 
 📚 Google Scholar
