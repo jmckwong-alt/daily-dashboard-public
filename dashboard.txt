@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, September 2, 2026**
-*Updated 11:44 AM*
+*Updated 3:20 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-66.1°F (feels like 65.6°F)
+78.9°F (feels like 83.5°F)
 Clear
 ---
 
@@ -42,18 +42,18 @@ M: 37 (0)
 ## Philosophy
 
 Daily Nous
+- [Adversarial Collaboration in Philosophy (guest post)](https://dailynous.com/2026/09/02/adversarial-collaboration-in-philosophy-guest-post/)
 - [Testing AI’s Philosophical Writing with a Contest](https://dailynous.com/2026/09/01/testing-ais-philosophical-writing-with-a-contest/)
 - [Cottrell from York to Toronto](https://dailynous.com/2026/09/01/cottrell-from-york-to-toronto/)
 - [Mini-Heap](https://dailynous.com/2026/09/01/mini-heap-726/)
 - [Bhandary from Iowa to Stony Brook](https://dailynous.com/2026/08/31/bhandary-from-iowa-to-stony-brook/)
-- [Online Philosophy Resources Monthly Update](https://dailynous.com/2026/08/31/online-philosophy-resources-monthly-update-12/)
 
 The Philosophers' Cocoon
+- [Leaving a postdoc for another postdoc?](https://philosopherscocoon.com/2026/09/02/leaving-a-postdoc-for-another-postdoc/)
 - [Journal typesetting issues?](https://philosopherscocoon.com/2026/09/01/journal-typesetting-issues/)
 - [How do search committees weight published books (and presses)?](https://philosopherscocoon.com/2026/08/31/how-do-search-committees-weight-published-books-and-presses/)
 - [Is it problematic to use the same argument to defend different theses in different papers?](https://philosopherscocoon.com/2026/08/27/is-it-problematic-to-use-the-same-argument-to-defend-different-theses-in-different-papers/)
 - [How do you divide up your reading time?](https://philosopherscocoon.com/2026/08/26/how-do-you-divide-your-reading-time/)
-- [What to do in cases of severe delays with journals (and when to withdraw a paper)?](https://philosopherscocoon.com/2026/08/25/what-to-do-in-cases-of-severe-delays-with-journals-and-when-to-withdraw-a-paper/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -67,18 +67,18 @@ The Brains Blog
 - [Daniel Gregory:  Introduction to the Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/daniel-gregory-introduction-to-the-symposium-on-inner-speech.aspx)
 
 PEA Soup
+- [Applications are now open for the CELPA Mentoring Scheme](https://peasoupblog.com/2026/09/applications-are-now-open-for-the-celpa-mentoring-scheme/)
 - [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
 - [Ethics Discussion: Kimberley Brownlee & Alyssa Izatt – Justice for Girls: On the Provision of Abortion as Adequate Care.](https://peasoupblog.com/2026/04/ethics-discussion-kimberley-brownlee-alyssa-izatt-justice-for-girls-on-the-provision-of-abortion-as-adequate-care/)
 - [Call for Abstracts: Ethics at Notre Dame Symposium (ENDs) 2027](https://peasoupblog.com/2026/04/call-for-abstracts-ethics-at-notre-dame-symposium-ends-2027/)
 - [Announcement: Justice for Girls: On the Provision of Abortion as Adequate Care. With Kimberley Brownlee, Alyssa Izatt and Japa Pallikkathayil](https://peasoupblog.com/2026/04/announcement-justice-for-girls-on-the-provision-of-abortion-as-adequate-care-with-kimberley-brownlee-alyssa-izatt-and-japa-pallikkathayil/)
-- [Ethics: Julian Jonker & Brookes Brown – A Dilemma for Expressive Arguments Against Markets](https://peasoupblog.com/2026/03/ethics-julian-jonker-brookes-brown-a-dilemma-for-expressive-arguments-against-markets/)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [How the Trumpistas silence internal critics](https://leiterreports.com/2026/09/02/how-the-trumpistas-silent-internal-critics/)
+- [From the working class to academic philosophy](https://leiterreports.com/2026/09/02/from-the-working-class-to-academic-philosophy/)
 - [Princeton&#8217;s Daniel Garber elected to the American Philosophical Society](https://leiterreports.com/2026/09/02/princetons-daniel-garber-elected-to-the-american-philosophical-society/)
 - [&#8220;What do you do when you do jurisprudence?  Challenges and New Paths&#8221;](https://leiterreports.com/2026/09/01/what-do-you-do-when-you-do-jurisprudence-challenges-and-new-paths/)
-- [Cottrell from Edinburgh/York U to Toronto](https://leiterreports.com/2026/09/01/cottrell-from-edinburgh-york-u-to-toronto/)
-- [More scams targetting philosophers](https://leiterreports.com/2026/09/01/more-scams-targetting-philosophers/)
 
 
 ==========================================
