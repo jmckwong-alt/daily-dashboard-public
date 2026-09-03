@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Thursday, September 3, 2026**
-*Updated 12:42 AM*
+*Updated 5:08 AM*
 
 ---
 
@@ -9,26 +9,29 @@
 
 ## ☀️ Boone Weather
 Boone
-77.0°F (feels like 82.7°F)
-Mostly clear
+68.9°F (feels like 71.0°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: September 1, 2026
-Score: Blue Jays 1 — Cleveland Guardians 6
+Last game: September 2, 2026
+Score: Blue Jays 11 — Cleveland Guardians 0
 
 How the runs were scored:
-• Bottom 5: Patrick Bailey homers (8) on a fly ball to center field. Angel Martínez scores.
-• Bottom 7: Angel Genao homers (2) on a fly ball to left field. Angel Martínez scores.
-• Bottom 8: Angel Martínez homers (14) on a fly ball to right center field. Petey Halpin scores.
+• Top 1: Vladimir Guerrero Jr. doubles (22) on a sharp line drive to center fielder Steven Kwan. Brett Bateman scores.
+• Top 2: George Springer reaches on a fielder's choice, fielded by shortstop Angel Genao. Andrés Giménez scores. Myles Straw scores. Brett Bateman to 3rd. Throwing error by shortstop Angel Genao.
+• Top 2: Vladimir Guerrero Jr. homers (8) on a fly ball to left field. Brett Bateman scores. George Springer scores.
+• Top 3: Myles Straw doubles (18) on a line drive to left fielder Angel Martínez. Ernie Clement scores. Andrés Giménez to 3rd.
+• Top 6: George Springer doubles (20) on a sharp line drive to center fielder Steven Kwan. Myles Straw scores. Brett Bateman to 3rd.
+• Top 6: Vladimir Guerrero Jr. singles on a line drive to right fielder Jo Adell. Brett Bateman scores. George Springer to 3rd.
+• Top 8: Josh Smith homers (4) on a fly ball to right center field.
+• Top 9: Nathan Lukes singles on a ground ball to center fielder Petey Halpin. Sean Keys scores. Charles McAdoo to 2nd.
 
-Wild Card: Blue Jays: 2.5 GB
+Wild Card: Blue Jays: 1.5 GB
 Teams ahead:
-1. Yankees — +8.5
-2. Red Sox — +4
+1. Yankees — +9.5
+2. Red Sox — +4.5
 3. Guardians — 0 GB
-4. Orioles — 2 GB
-5. Rangers — 2 GB
 
 
 📚 Google Scholar
