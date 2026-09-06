@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Sunday, September 6, 2026**
-*Updated 5:21 PM*
+*Updated 7:32 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-73.6°F (feels like 77.0°F)
+70.8°F (feels like 76.6°F)
 Overcast
 ---
 
@@ -58,7 +58,7 @@ The Philosophers' Cocoon
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
-PhilArchive
+PhilArchive: unable to retrieve feed (The read operation timed out)
 
 The Brains Blog
 - [Daniel Gregory: Signed Inner Speech](https://philosophyofbrains.com/2026/08/28/daniel-gregory-signed-inner-speech.aspx)
