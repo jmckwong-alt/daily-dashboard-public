@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Sunday, September 6, 2026**
-*Updated 7:32 PM*
+*Updated 9:44 PM*
 
 ---
 
@@ -9,27 +9,25 @@
 
 ## ☀️ Boone Weather
 Boone
-70.8°F (feels like 76.6°F)
+72.8°F (feels like 78.1°F)
 Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: September 5, 2026
-Score: Blue Jays 4 — Kansas City Royals 3
+Last game: September 6, 2026
+Score: Blue Jays 1 — Kansas City Royals 6
 
 How the runs were scored:
-• Top 1: Alejandro Kirk singles on a soft ground ball to third baseman Josh Rojas. Vladimir Guerrero Jr. scores. Alejandro Kirk to 2nd. Throwing error by third baseman Josh Rojas.
-• Top 1: Nathan Lukes singles on a line drive to left fielder Isaac Collins. Alejandro Kirk scores.
-• Bottom 1: Jac Caglianone singles on a ground ball to second baseman Ernie Clement. Carter Jensen scores. Bobby Witt Jr. to 3rd.
-• Bottom 1: Salvador Perez singles on a line drive to right fielder Nathan Lukes. Bobby Witt Jr. scores. Jac Caglianone to 3rd.
-• Top 3: Kazuma Okamoto doubles (23) on a ground ball to left fielder Isaac Collins. Nathan Lukes scores. Kazuma Okamoto out at 3rd on the throw, left fielder Isaac Collins to shortstop Bobby Witt Jr. to third baseman Josh Rojas.
-• Bottom 4: John Rave homers (4) on a fly ball to right field.
-• Top 7: Kazuma Okamoto singles on a ground ball to center fielder John Rave. George Springer scores. Nathan Lukes to 3rd.
+• Bottom 1: Vinnie Pasquantino homers (11) on a fly ball to right center field. John Rave scores. Bobby Witt Jr. scores.
+• Bottom 3: Salvador Perez homers (19) on a fly ball to left center field. Bobby Witt Jr. scores.
+• Bottom 5: Nick Loftin singles on a ground ball to second baseman Josh Smith. Vinnie Pasquantino scores. Salvador Perez to 2nd.
+• Top 6: Josh Smith homers (5) on a fly ball to right field.
 
-Wild Card: Blue Jays: 0 GB
+Wild Card: Blue Jays: 1 GB
 Teams ahead:
-1. Yankees — +9.5
+1. Yankees — +9
 2. Red Sox — +6
+3. Guardians — 0 GB
 
 
 📚 Google Scholar
@@ -58,7 +56,7 @@ The Philosophers' Cocoon
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
-PhilArchive: unable to retrieve feed (The read operation timed out)
+PhilArchive
 
 The Brains Blog
 - [Daniel Gregory: Signed Inner Speech](https://philosophyofbrains.com/2026/08/28/daniel-gregory-signed-inner-speech.aspx)
