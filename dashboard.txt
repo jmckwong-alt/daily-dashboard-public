@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, September 7, 2026**
-*Updated 6:24 PM*
+*Updated 9:46 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-66.3°F (feels like 66.7°F)
+66.0°F (feels like 67.3°F)
 Overcast
 ---
 
@@ -23,10 +23,10 @@ How the runs were scored:
 • Bottom 5: Nick Loftin singles on a ground ball to second baseman Josh Smith. Vinnie Pasquantino scores. Salvador Perez to 2nd.
 • Top 6: Josh Smith homers (5) on a fly ball to right field.
 
-Wild Card: Blue Jays: 1 GB
+Wild Card: Blue Jays: 0.5 GB
 Teams ahead:
-1. Yankees — +8.5
-2. Red Sox — +6
+1. Yankees — +9
+2. Red Sox — +7
 3. Guardians — 0 GB
 
 
