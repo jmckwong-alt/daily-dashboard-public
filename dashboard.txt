@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, September 8, 2026**
-*Updated 10:05 AM*
+*Updated 2:46 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-56.1°F (feels like 54.7°F)
+67.0°F (feels like 68.8°F)
 Clear
 ---
 
@@ -47,18 +47,18 @@ M: 38 (0)
 ## Philosophy
 
 Daily Nous
+- [Placement & AOS](https://dailynous.com/2026/09/08/placement-aos/)
 - [Online Philosophy Resources Weekly Update](https://dailynous.com/2026/09/07/online-philosophy-resources-weekly-update-439/)
 - [Free to Be Experimental Philosophy](https://dailynous.com/2026/09/04/free-to-be-experimental-philosophy/)
 - [Mini-Heap](https://dailynous.com/2026/09/03/mini-heap-727/)
 - [Adversarial Collaboration in Philosophy (guest post)](https://dailynous.com/2026/09/02/adversarial-collaboration-in-philosophy-guest-post/)
-- [Testing AI’s Philosophical Writing with a Contest](https://dailynous.com/2026/09/01/testing-ais-philosophical-writing-with-a-contest/)
 
 The Philosophers' Cocoon
+- [Tips for applying for TT jobs from a TT job?](https://philosopherscocoon.com/2026/09/08/tips-for-applying-for-tt-jobs-from-a-tt-job/)
 - [How can we help you? (September 2026)](https://philosopherscocoon.com/2026/09/04/how-can-we-help-you-september-2026/)
 - [CFP (and call for commentators): 14th Annual Legal Philosophy Workshop](https://philosopherscocoon.com/2026/09/03/cfp-and-call-for-commentators-14th-annual-legal-philosophy-workshop/)
 - [AI Philosophy Competition](https://philosopherscocoon.com/2026/09/03/ai-philosophy-competition/)
 - [Leaving a postdoc for another postdoc?](https://philosopherscocoon.com/2026/09/02/leaving-a-postdoc-for-another-postdoc/)
-- [Journal typesetting issues?](https://philosopherscocoon.com/2026/09/01/journal-typesetting-issues/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -80,10 +80,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [The declining &#8220;labor share&#8221; of income](https://leiterreports.com/2026/09/08/the-declining-labor-share-of-income/)
+- [&#8220;The Basics of Philosophy,&#8221; a new film from Paul Schrader&#8230;](https://leiterreports.com/2026/09/08/the-basics-of-philosophy-a-new-film-from-paul-schrader/)
 - [In Memoriam:  Robert Alexy (1945-2026)](https://leiterreports.com/2026/09/07/in-memoriam-robert-alexy-1945-2026/)
 - [One *real* radio book show flags the scamers impersonating them](https://leiterreports.com/2026/09/07/one-real-book-show-flags-the-scam-impersonating-them/)
-- [Great moments in (what won&#8217;t be) obscure rock &#8216;n&#8217; roll (for long):  Amani Burnham, &#8220;Bluejay,&#8221; and other songs, 2026](https://leiterreports.com/2026/09/05/great-moments-in-what-wont-be-obscure-rock-n-roll-for-long-amani-burnham-bluejay-and-other-songs-2026/)
-- [&#8220;AI Philosophy Competition&#8221;](https://leiterreports.com/2026/09/04/ai-philosophy-competition/)
 
 
 ==========================================
