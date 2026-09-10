@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Thursday, September 10, 2026**
-*Updated 2:39 PM*
+*Updated 5:53 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-71.4°F (feels like 69.6°F)
+76.2°F (feels like 78.5°F)
 Clear
 ---
 
@@ -71,10 +71,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [&#8220;AI and the University&#8221;](https://leiterreports.com/2026/09/10/ai-and-the-university/)
 - [The &#8220;Leiden Rankings&#8221; of world universities are absurd&#8230;](https://leiterreports.com/2026/09/10/the-leiden-rankings-of-world-universities-are-absurd/)
 - [The President of the United States is (in the words of his first Secretary of State) a &#8220;fucking moron&#8221;](https://leiterreports.com/2026/09/10/the-president-of-the-united-states-is-in-the-words-of-his-first-secretary-of-state-a-fucking-moron/)
 - [Welcome to Rutgers!  (Welcome to any serious university)](https://leiterreports.com/2026/09/09/welcome-to-rutgers-welcome-to-any-serious-university/)
-- [Bureaucracy, capitalism, AI, and climate change](https://leiterreports.com/2026/09/09/bureaucracy-capitalism-ai-and-climate-change/)
 
 
 ==========================================
