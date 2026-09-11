@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Friday, September 11, 2026**
-*Updated 11:49 AM*
+*Updated 4:45 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-65.3°F (feels like 65.8°F)
+76.3°F (feels like 80.0°F)
 Clear
 ---
 
@@ -56,11 +56,11 @@ APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 PhilArchive
 
 The Brains Blog
+- [Introducing: New Associate Editor, Wade Munroe](https://philosophyofbrains.com/2026/09/11/introducing-new-associate-editor-wade-munroe.aspx)
 - [Daniel Gregory: Signed Inner Speech](https://philosophyofbrains.com/2026/08/28/daniel-gregory-signed-inner-speech.aspx)
 - [Marta Jorba: Do we know what we think before saying it to ourselves?](https://philosophyofbrains.com/2026/08/27/marta-jorba-do-we-know-what-we-think-before-saying-it-to-ourselves.aspx)
 - [Wade Munroe: Inner Speech, Speech Acts, and the Metaphysics of Language](https://philosophyofbrains.com/2026/08/26/wade-munroe-inner-speech-speech-acts-and-the-metaphysics-of-language.aspx)
 - [Peter Langland-Hassan:  Are there Words in My Head?](https://philosophyofbrains.com/2026/08/25/peter-langland-hassan-are-there-words-in-my-head.aspx)
-- [Daniel Gregory:  Introduction to the Symposium on Inner Speech](https://philosophyofbrains.com/2026/08/24/daniel-gregory-introduction-to-the-symposium-on-inner-speech.aspx)
 
 PEA Soup
 - [Ethics – What the Demands of Sustainability Can(not) Be](https://peasoupblog.com/2026/09/ethics-what-the-demands-of-sustainability-cannot-be/)
@@ -71,10 +71,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Blast from the past:  September 11, 2001 in Austin, Texas](https://leiterreports.com/2026/09/11/blast-from-the-past-september-11-2001-in-austin-texas/)
+- [The &#8220;availability bias&#8221; and myths about universities](https://leiterreports.com/2026/09/11/the-availability-bias-and-myths-about-universities/)
 - [&#8220;AI and the University&#8221;](https://leiterreports.com/2026/09/10/ai-and-the-university/)
 - [The &#8220;Leiden Rankings&#8221; of world universities are absurd&#8230;](https://leiterreports.com/2026/09/10/the-leiden-rankings-of-world-universities-are-absurd/)
-- [The President of the United States is (in the words of his first Secretary of State) a &#8220;fucking moron&#8221;](https://leiterreports.com/2026/09/10/the-president-of-the-united-states-is-in-the-words-of-his-first-secretary-of-state-a-fucking-moron/)
-- [Welcome to Rutgers!  (Welcome to any serious university)](https://leiterreports.com/2026/09/09/welcome-to-rutgers-welcome-to-any-serious-university/)
 
 
 ==========================================
