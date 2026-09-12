@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Saturday, September 12, 2026**
-*Updated 12:40 AM*
+*Updated 5:06 AM*
 
 ---
 
@@ -9,21 +9,28 @@
 
 ## ☀️ Boone Weather
 Boone
-71.3°F (feels like 74.9°F)
-Mostly clear
+64.8°F (feels like 67.9°F)
+Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: September 9, 2026
-Score: Blue Jays 0 — Athletics 2
+Last game: September 11, 2026
+Score: Blue Jays 4 — Baltimore Orioles 7
 
 How the runs were scored:
-• Bottom 3: Henry Bolte homers (10) on a fly ball to left center field.
+• Top 1: Dylan Beavers homers (7) on a fly ball to right field.
+• Top 2: Heston Kjerstad singles on a line drive to right fielder Nathan Lukes. Gunnar Henderson scores. Samuel Basallo to 3rd. Christian Encarnacion-Strand to 2nd.
+• Top 2: Colton Cowser doubles (8) on a line drive to left fielder Josh Smith. Samuel Basallo scores. Christian Encarnacion-Strand scores. Heston Kjerstad to 3rd.
+• Top 2: Dylan Beavers singles on a sharp line drive to right fielder Nathan Lukes. Heston Kjerstad scores. Colton Cowser scores.
+• Bottom 4: Kazuma Okamoto homers (31) on a fly ball to right center field.
+• Bottom 6: Andrés Giménez grounds out, second baseman Jackson Holliday to first baseman Pete Alonso. Nathan Lukes scores. Kazuma Okamoto to 3rd.
+• Top 7: Coby Mayo homers (23) on a fly ball to left field.
+• Bottom 9: Brett Bateman homers (1) on a fly ball to center field. Ernie Clement scores.
 
-Wild Card: Blue Jays: 1 GB
+Wild Card: Blue Jays: 2 GB
 Teams ahead:
 1. Yankees — +10.5
-2. Red Sox — +6
+2. Red Sox — +5
 3. Guardians — 0 GB
 
 
