@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Saturday, September 12, 2026**
-*Updated 6:47 PM*
+*Updated 9:01 PM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-73.4°F (feels like 76.8°F)
-Partly cloudy
+72.7°F (feels like 75.5°F)
+Overcast
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -29,7 +29,7 @@ How the runs were scored:
 
 Wild Card: Blue Jays: 2 GB
 Teams ahead:
-1. Yankees — +10.5
+1. Yankees — +10
 2. Red Sox — +5
 3. Guardians — 0 GB
 
@@ -78,10 +78,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [&#8220;A Severe Misalignment of AI in Mathematics&#8221;](https://leiterreports.com/2026/09/12/a-severe-misalignment-of-ai-in-mathematics/)
 - [Blast from the past:  September 11, 2001 in Austin, Texas](https://leiterreports.com/2026/09/11/blast-from-the-past-september-11-2001-in-austin-texas/)
 - [The &#8220;availability bias&#8221; and myths about universities](https://leiterreports.com/2026/09/11/the-availability-bias-and-myths-about-universities/)
 - [&#8220;AI and the University&#8221;](https://leiterreports.com/2026/09/10/ai-and-the-university/)
-- [The &#8220;Leiden Rankings&#8221; of world universities are absurd&#8230;](https://leiterreports.com/2026/09/10/the-leiden-rankings-of-world-universities-are-absurd/)
 
 
 ==========================================
