@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, September 14, 2026**
-*Updated 5:28 AM*
+*Updated 10:58 AM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-63.0°F (feels like 62.4°F)
+61.7°F (feels like 60.3°F)
 Clear
 ---
 
@@ -57,7 +57,7 @@ The Philosophers' Cocoon
 - [Tips for applying for TT jobs from a TT job?](https://philosopherscocoon.com/2026/09/08/tips-for-applying-for-tt-jobs-from-a-tt-job/)
 - [How can we help you? (September 2026)](https://philosopherscocoon.com/2026/09/04/how-can-we-help-you-september-2026/)
 
-APA Blog: unable to retrieve feed (HTTP Error 429: Too Many Requests)
+APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
 PhilArchive
 
@@ -77,10 +77,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [A sensible policy about refereeing in the age of AI](https://leiterreports.com/2026/09/14/a-sensible-policy-about-refereeing-in-the-age-of-ai/)
 - [&#8220;A Severe Misalignment of AI in Mathematics&#8221;](https://leiterreports.com/2026/09/12/a-severe-misalignment-of-ai-in-mathematics/)
 - [Blast from the past:  September 11, 2001 in Austin, Texas](https://leiterreports.com/2026/09/11/blast-from-the-past-september-11-2001-in-austin-texas/)
 - [The &#8220;availability bias&#8221; and myths about universities](https://leiterreports.com/2026/09/11/the-availability-bias-and-myths-about-universities/)
-- [&#8220;AI and the University&#8221;](https://leiterreports.com/2026/09/10/ai-and-the-university/)
 
 
 ==========================================
