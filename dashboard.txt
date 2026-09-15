@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, September 15, 2026**
-*Updated 10:28 AM*
+*Updated 3:16 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-61.3°F (feels like 62.2°F)
+65.2°F (feels like 66.8°F)
 Overcast
 ---
 
@@ -46,17 +46,22 @@ M: 38 (0)
 Daily Nous: unable to retrieve feed (syntax error: line 1, column 0)
 
 The Philosophers' Cocoon
+- [Do publications in lower-ranked journals hurt job candidates?](https://philosopherscocoon.com/2026/09/15/do-publications-in-lower-ranked-journals-hurt-job-candidates/)
 - [What is it like to be an independent scholar?](https://philosopherscocoon.com/2026/09/14/what-is-it-like-to-be-an-independent-scholar/)
 - [Funding disclosure and acknowledge norms?](https://philosopherscocoon.com/2026/09/11/funding-disclosure-and-acknowledge-norms/)
 - [How are PhD programs planning for serious job-market disruptions on the horizon?](https://philosopherscocoon.com/2026/09/10/how-are-phd-programs-planning-for-serious-job-market-disruptions-on-the-horizon/)
 - [Trouble publishing: finding the happy median between too ambitious or too safe?](https://philosopherscocoon.com/2026/09/09/6463/)
-- [Tips for applying for TT jobs from a TT job?](https://philosopherscocoon.com/2026/09/08/tips-for-applying-for-tt-jobs-from-a-tt-job/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
 PhilArchive
 
-The Brains Blog: unable to retrieve feed (The read operation timed out)
+The Brains Blog
+- [Introducing: New Associate Editor, Wade Munroe](https://philosophyofbrains.com/2026/09/11/introducing-new-associate-editor-wade-munroe.aspx)
+- [Daniel Gregory: Signed Inner Speech](https://philosophyofbrains.com/2026/08/28/daniel-gregory-signed-inner-speech.aspx)
+- [Marta Jorba: Do we know what we think before saying it to ourselves?](https://philosophyofbrains.com/2026/08/27/marta-jorba-do-we-know-what-we-think-before-saying-it-to-ourselves.aspx)
+- [Wade Munroe: Inner Speech, Speech Acts, and the Metaphysics of Language](https://philosophyofbrains.com/2026/08/26/wade-munroe-inner-speech-speech-acts-and-the-metaphysics-of-language.aspx)
+- [Peter Langland-Hassan:  Are there Words in My Head?](https://philosophyofbrains.com/2026/08/25/peter-langland-hassan-are-there-words-in-my-head.aspx)
 
 PEA Soup
 - [Ethics – What the Demands of Sustainability Can(not) Be](https://peasoupblog.com/2026/09/ethics-what-the-demands-of-sustainability-cannot-be/)
@@ -67,10 +72,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [A conference in memory of Virginia Held at CUNY](https://leiterreports.com/2026/09/15/a-conference-in-memory-of-virginia-held-at-cuny/)
 - [Lateral moves/retirement since the 2024 Philosophical Gourmet Report:  2026-27 edition](https://leiterreports.com/2026/09/14/lateral-moves-retirement-since-the-2024-philosophical-gourmet-report-2026-27-edition/)
 - [Does AI really pose an existential risk?](https://leiterreports.com/2026/09/14/does-ai-really-pose-an-existential-risk/)
 - [A sensible policy about refereeing in the age of AI](https://leiterreports.com/2026/09/14/a-sensible-policy-about-refereeing-in-the-age-of-ai/)
-- [&#8220;A Severe Misalignment of AI in Mathematics&#8221;](https://leiterreports.com/2026/09/12/a-severe-misalignment-of-ai-in-mathematics/)
 
 
 ==========================================
