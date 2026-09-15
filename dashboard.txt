@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, September 15, 2026**
-*Updated 3:16 PM*
+*Updated 7:14 PM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-65.2°F (feels like 66.8°F)
-Overcast
+72.2°F (feels like 77.8°F)
+Mostly clear
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -72,10 +72,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Canonical thought experiments and interactive &#8220;Socratic&#8221; dialogues&#8230;](https://leiterreports.com/2026/09/15/canonical-thought-experiments-and-interactive-socratic-dialogues/)
+- [Philosopher Harvey Lederman talks about AI &#8220;welfare&#8221; and related topics&#8230;](https://leiterreports.com/2026/09/15/philosopher-harvey-lederman-talks-about-ai-welfare-and-related-topics/)
 - [A conference in memory of Virginia Held at CUNY](https://leiterreports.com/2026/09/15/a-conference-in-memory-of-virginia-held-at-cuny/)
 - [Lateral moves/retirement since the 2024 Philosophical Gourmet Report:  2026-27 edition](https://leiterreports.com/2026/09/14/lateral-moves-retirement-since-the-2024-philosophical-gourmet-report-2026-27-edition/)
-- [Does AI really pose an existential risk?](https://leiterreports.com/2026/09/14/does-ai-really-pose-an-existential-risk/)
-- [A sensible policy about refereeing in the age of AI](https://leiterreports.com/2026/09/14/a-sensible-policy-about-refereeing-in-the-age-of-ai/)
 
 
 ==========================================
