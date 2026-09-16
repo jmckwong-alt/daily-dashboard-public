@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, September 16, 2026**
-*Updated 8:26 PM*
+*Updated 11:16 PM*
 
 ---
 
@@ -9,29 +9,27 @@
 
 ## ☀️ Boone Weather
 Boone
-80.6°F (feels like 84.5°F)
-Mostly clear
+73.2°F (feels like 76.5°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: September 15, 2026
-Score: Blue Jays 1 — Detroit Tigers 10
+Last game: September 16, 2026
+Score: Blue Jays 5 — Detroit Tigers 1
 
 How the runs were scored:
-• Top 4: Max Clark doubles (10) on a ground ball to left fielder Josh Smith. Riley Greene scores. Eduardo Valencia to 3rd.
-• Top 4: Spencer Torkelson homers (24) on a fly ball to left center field. Eduardo Valencia scores. Max Clark scores.
-• Top 5: Riley Greene singles on a sharp fly ball to right fielder Nathan Lukes. Kevin McGonigle scores. Hao-Yu Lee to 3rd.
-• Top 6: John Peck singles on a ground ball to right fielder Nathan Lukes. Spencer Torkelson scores. John Peck out at 2nd on the throw, right fielder Nathan Lukes to shortstop Andrés Giménez.
-• Bottom 8: Alejandro Kirk singles on a sharp line drive to center fielder Max Clark. Brett Bateman scores. George Springer to 2nd.
-• Top 9: Hao-Yu Lee homers (9) on a fly ball to left field.
-• Top 9: Max Clark singles on a ground ball to center fielder Myles Straw. Ben Malgeri scores. Eduardo Valencia to 3rd.
+• Top 1: Riley Greene singles on a ground ball to center fielder Brett Bateman. Colt Keith scores. Riley Greene to 2nd.
+• Bottom 4: Ernie Clement out on a sacrifice fly to center fielder Max Clark. Kazuma Okamoto scores.
+• Bottom 4: Myles Straw singles on a line drive to left fielder Riley Greene. Josh Smith scores.
+• Bottom 5: George Springer singles on a sharp line drive to right fielder Brett Callahan. Brett Bateman scores. Vladimir Guerrero Jr. to 2nd.
+• Bottom 6: Brandon Valenzuela reaches on a fielder's choice, fielded by shortstop John Peck. Ernie Clement scores. Brandon Valenzuela to 2nd. Throwing error by shortstop John Peck.
+• Bottom 6: Nathan Lukes singles on a soft ground ball to pitcher Drew Sommers. Brandon Valenzuela scores. Brett Bateman to 2nd.
 
-Wild Card: Blue Jays: 2 GB
+Wild Card: Blue Jays: 1.5 GB
 Teams ahead:
-1. Yankees — +11.5
+1. Yankees — +11
 2. Red Sox — +5.5
 3. White Sox — 0 GB
-4. Rangers — 1.5 GB
 
 
 📚 Google Scholar
@@ -73,10 +71,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Does AI really pose an existential risk?](https://leiterreports.com/2026/09/16/does-ai-really-pose-an-existential-risk/)
 - [&#8220;Teach Philosophy,&#8221; an online resource](https://leiterreports.com/2026/09/16/teach-philosophy-an-online-resource/)
 - [On AI and the universities](https://leiterreports.com/2026/09/16/on-ai-and-the-universities/)
 - [Canonical thought experiments and interactive &#8220;Socratic&#8221; dialogues&#8230;](https://leiterreports.com/2026/09/15/canonical-thought-experiments-and-interactive-socratic-dialogues/)
-- [Philosopher Harvey Lederman talks about AI &#8220;welfare&#8221; and related topics&#8230;](https://leiterreports.com/2026/09/15/philosopher-harvey-lederman-talks-about-ai-welfare-and-related-topics/)
 
 
 ==========================================
