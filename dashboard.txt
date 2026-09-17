@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Thursday, September 17, 2026**
-*Updated 1:43 AM*
+*Updated 6:41 AM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-67.0°F (feels like 71.3°F)
+63.6°F (feels like 63.2°F)
 Clear
 ---
 
@@ -28,8 +28,9 @@ How the runs were scored:
 Wild Card: Blue Jays: 1.5 GB
 Teams ahead:
 1. Yankees — +11
-2. Red Sox — +5.5
+2. Red Sox — +5
 3. White Sox — 0 GB
+4. Rangers — 1 GB
 
 
 📚 Google Scholar
