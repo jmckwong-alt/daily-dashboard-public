@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Friday, September 18, 2026**
-*Updated 1:32 AM*
+*Updated 6:41 AM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-69.6°F (feels like 71.7°F)
-Partly cloudy
+66.3°F (feels like 66.3°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -25,12 +25,11 @@ How the runs were scored:
 • Bottom 6: Brandon Valenzuela reaches on a fielder's choice, fielded by shortstop John Peck. Ernie Clement scores. Brandon Valenzuela to 2nd. Throwing error by shortstop John Peck.
 • Bottom 6: Nathan Lukes singles on a soft ground ball to pitcher Drew Sommers. Brandon Valenzuela scores. Brett Bateman to 2nd.
 
-Wild Card: Blue Jays: 1.5 GB
+Wild Card: Blue Jays: 2 GB
 Teams ahead:
-1. Yankees — +11
+1. Yankees — +10.5
 2. Red Sox — +5
-3. White Sox — 0 GB
-4. Rangers — 1 GB
+3. Guardians — 0 GB
 
 
 📚 Google Scholar
