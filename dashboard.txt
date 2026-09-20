@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Sunday, September 20, 2026**
-*Updated 1:41 AM*
+*Updated 7:03 AM*
 
 ---
 
@@ -9,29 +9,29 @@
 
 ## ☀️ Boone Weather
 Boone
-65.0°F (feels like 68.8°F)
-Light drizzle
+61.4°F (feels like 61.7°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: September 18, 2026
-Score: Blue Jays 1 — Texas Rangers 7
+Last game: September 19, 2026
+Score: Blue Jays 2 — Texas Rangers 6
 
 How the runs were scored:
-• Bottom 2: Evan Carter reaches on a fielder's choice. Wyatt Langford scores. Jake Burger scores. Nicky Lopez to 3rd. Evan Carter to 2nd. Throwing error by shortstop Ernie Clement.
-• Bottom 2: Ezequiel Duran out on a sacrifice fly to right fielder Nathan Lukes. Nicky Lopez scores. Evan Carter to 3rd.
-• Bottom 2: Corey Seager doubles (16) on a sharp line drive to right fielder Nathan Lukes. Evan Carter scores.
-• Top 5: Myles Straw doubles (19) on a line drive to left fielder Wyatt Langford. Josh Smith scores. Ernie Clement to 3rd.
-• Bottom 5: Jake Burger out on a sacrifice fly to left fielder Davis Schneider. Brandon Nimmo scores.
-• Bottom 6: Wyatt Langford walks. Ezequiel Duran scores. Josh Jung to 3rd. Brandon Nimmo to 2nd.
-• Bottom 8: Jake Burger doubles (23) on a sharp fly ball to right fielder Brett Bateman. Wyatt Langford scores.
+• Bottom 1: Josh Jung homers (11) on a fly ball to right field.
+• Bottom 2: Danny Jansen reaches on a fielder's choice. Wyatt Langford scores. Nicky Lopez to 3rd. Throwing error by shortstop Andrés Giménez.
+• Top 6: Alejandro Kirk singles on a sharp line drive to center fielder Evan Carter. Andrés Giménez scores. Brett Bateman to 2nd.
+• Bottom 6: Wyatt Langford doubles (20) on a fly ball to left fielder Myles Straw. Josh Jung scores. Brandon Nimmo to 3rd.
+• Bottom 6: Danny Jansen hit by pitch. Brandon Nimmo scores. Wyatt Langford to 3rd. Nicky Lopez to 2nd.
+• Bottom 6: Evan Carter out on a sacrifice fly to center fielder Brett Bateman. Wyatt Langford scores.
+• Top 7: Davis Schneider homers (4) on a fly ball to left center field.
 
-Wild Card: Blue Jays: 2.5 GB
+Wild Card: Blue Jays: 3 GB
 Teams ahead:
-1. Yankees — +11
+1. Yankees — +10.5
 2. Red Sox — +5
 3. White Sox — 0 GB
-4. Rangers — 1.5 GB
+4. Astros — 2 GB
 
 
 📚 Google Scholar
@@ -64,7 +64,12 @@ The Brains Blog
 - [Marta Jorba: Do we know what we think before saying it to ourselves?](https://philosophyofbrains.com/2026/08/27/marta-jorba-do-we-know-what-we-think-before-saying-it-to-ourselves.aspx)
 - [Wade Munroe: Inner Speech, Speech Acts, and the Metaphysics of Language](https://philosophyofbrains.com/2026/08/26/wade-munroe-inner-speech-speech-acts-and-the-metaphysics-of-language.aspx)
 
-PEA Soup: unable to retrieve feed (HTTP Error 403: Forbidden)
+PEA Soup
+- [Ethics – What the Demands of Sustainability Can(not) Be](https://peasoupblog.com/2026/09/ethics-what-the-demands-of-sustainability-cannot-be/)
+- [Announcement: Ethics – What the Demands of Sustainability Can(not) Be](https://peasoupblog.com/2026/09/announcement-ethics-what-the-demands-of-sustainability-cannot-be/)
+- [Applications are now open for the CELPA Mentoring Scheme](https://peasoupblog.com/2026/09/applications-are-now-open-for-the-celpa-mentoring-scheme/)
+- [ANNOUNCEMENT: CELPA Mentoring Scheme – Applications Open from 1 September 2026](https://peasoupblog.com/2026/07/announcement-celpa-mentoring-scheme-applications-open-from-1-september-2026/)
+- [Ethics Discussion: Kimberley Brownlee & Alyssa Izatt – Justice for Girls: On the Provision of Abortion as Adequate Care.](https://peasoupblog.com/2026/04/ethics-discussion-kimberley-brownlee-alyssa-izatt-justice-for-girls-on-the-provision-of-abortion-as-adequate-care/)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
