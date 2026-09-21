@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, September 21, 2026**
-*Updated 12:30 AM*
+*Updated 5:31 AM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-68.9°F (feels like 75.0°F)
-Mostly clear
+64.6°F (feels like 64.8°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -26,12 +26,12 @@ How the runs were scored:
 • Top 7: Charles McAdoo doubles (3) on a line drive to left fielder Wyatt Langford. Myles Straw scores. Nathan Lukes scores.
 • Top 7: Andrés Giménez singles on a sharp line drive to right fielder Alejandro Osuna. Charles McAdoo scores.
 
-Wild Card: Blue Jays: 2.5 GB
+Wild Card: Blue Jays: 3 GB
 Teams ahead:
-1. Yankees — +10
-2. Red Sox — +4.5
+1. Yankees — +9.5
+2. Red Sox — +4
 3. White Sox — 0 GB
-4. Astros — 2.5 GB
+4. Astros — 3 GB
 
 
 📚 Google Scholar
