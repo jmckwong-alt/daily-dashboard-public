@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
-**Sunday, September 20, 2026**
-*Updated 9:51 PM*
+**Monday, September 21, 2026**
+*Updated 12:30 AM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-75.8°F (feels like 80.6°F)
-Overcast
+68.9°F (feels like 75.0°F)
+Mostly clear
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -28,7 +28,7 @@ How the runs were scored:
 
 Wild Card: Blue Jays: 2.5 GB
 Teams ahead:
-1. Yankees — +10.5
+1. Yankees — +10
 2. Red Sox — +4.5
 3. White Sox — 0 GB
 4. Astros — 2.5 GB
@@ -38,9 +38,9 @@ Teams ahead:
 Total citations: 521
 Daily change: no change
 B: 495 (0)
-S: 1896 (+1)
+S: 1897 (+1)
 E: 190 (0)
-R: 332 (+1)
+R: 332 (0)
 M: 38 (0)
 ## Philosophy
 
