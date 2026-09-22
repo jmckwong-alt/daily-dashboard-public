@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, September 22, 2026**
-*Updated 10:21 AM*
+*Updated 3:10 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-60.6°F (feels like 61.2°F)
+66.2°F (feels like 68.2°F)
 Overcast
 ---
 
@@ -46,11 +46,11 @@ M: 38 (0)
 Daily Nous: unable to retrieve feed (syntax error: line 1, column 0)
 
 The Philosophers' Cocoon
+- [Disconnected from the public/social aspects of the profession?](https://philosopherscocoon.com/2026/09/22/disconnected-from-the-public-social-aspects-of-the-profession/)
 - [A literature responding to prominent non-academic posts about AI?](https://philosopherscocoon.com/2026/09/21/a-literature-responding-to-prominent-non-academic-posts-about-ai/)
 - [TeachPhilosophy 101: an online resource](https://philosopherscocoon.com/2026/09/21/teachphilosophy-101-an-online-resource/)
 - [When someone cites but (woefully) misrepresents your work?](https://philosopherscocoon.com/2026/09/18/when-someone-cites-but-woefully-misrepresents-your-work/)
 - [Listing “selected publications” to avoid drawing attention to a low-ranked journal publication?](https://philosopherscocoon.com/2026/09/17/listing-selected-publications-to-avoid-drawing-attention-to-a-low-ranked-journal-publication/)
-- [How do people afford visiting fellowships during sabbaticals?](https://philosopherscocoon.com/2026/09/16/how-do-people-afford-visiting-fellowships-during-sabbaticals/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -72,10 +72,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
-- [Here&#8217;s an amusing way to respond to scam invitations](https://leiterreports.com/2026/09/21/heres-an-amusing-way-to-respond-to-scam-invitations/)
-- [AI takes down &#8220;effective [sic] altruism&#8221; (and longtermism)](https://leiterreports.com/2026/09/21/ai-takes-down-effective-sic-altruism-and-longtermism/)
-- [UCLA Law School hosts a conference on the legal consequences of the response to 9/11&#8230;](https://leiterreports.com/2026/09/17/ucla-law-school-hosts-a-conference-on-the-legal-consequences-of-the-response-to-9-11/)
-- [Trump Translator](https://leiterreports.com/2026/09/17/trump-translator/)
+- [Pittsburgh&#8217;s John Norton wins Lakatos Award&#8230;](https://leiterreports.com/2026/09/22/pittsburghs-john-norton-wins-lakatos-award/)
+- [AIs are not conscious&#8230;](https://leiterreports.com/2026/09/22/ais-are-not-conscious/)
+- [Blast from the past:  What to look for in a book contract with an academic press?](https://leiterreports.com/2026/09/22/blast-from-the-past-what-to-look-for-in-a-book-contract-with-an-academic-press-2/)
+- [California AI company seeks &#8220;research scientist&#8221; knowledgeable about philosophy to work on &#8220;alignment&#8221; issues](https://leiterreports.com/2026/09/22/california-ai-company-seeks-research-scientist-knowledgeable-about-philosophy-to-work-on-alignment-issues/)
 
 
 ==========================================
