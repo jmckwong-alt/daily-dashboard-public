@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, September 22, 2026**
-*Updated 12:17 AM*
+*Updated 5:24 AM*
 
 ---
 
@@ -9,24 +9,23 @@
 
 ## ☀️ Boone Weather
 Boone
-67.5°F (feels like 71.4°F)
-Overcast
+63.2°F (feels like 65.2°F)
+Partly cloudy
 ---
 
 ## ⚾ Toronto Blue Jays
-Last game: September 20, 2026
-Score: Blue Jays 7 — Texas Rangers 2
+Last game: September 21, 2026
+Score: Blue Jays 3 — Baltimore Orioles 4
 
 How the runs were scored:
-• Top 1: Nathan Lukes out on a sacrifice fly to left fielder Wyatt Langford. Brett Bateman scores.
-• Top 3: Sean Keys doubles (2) on a line drive to right fielder Alejandro Osuna. Nathan Lukes scores.
-• Bottom 4: Jake Burger homers (27) on a fly ball to left center field. Ezequiel Duran scores.
-• Top 5: Kazuma Okamoto singles on a line drive to center fielder Evan Carter. Brett Bateman scores. Myles Straw to 3rd.
-• Top 7: Nathan Lukes singles on a ground ball to right fielder Alejandro Osuna. Brett Bateman scores. Myles Straw to 2nd.
-• Top 7: Charles McAdoo doubles (3) on a line drive to left fielder Wyatt Langford. Myles Straw scores. Nathan Lukes scores.
-• Top 7: Andrés Giménez singles on a sharp line drive to right fielder Alejandro Osuna. Charles McAdoo scores.
+• Top 1: Nathan Lukes singles on a line drive to left fielder Dylan Beavers. Brett Bateman scores. Alejandro Kirk to 2nd.
+• Top 1: George Springer singles on a line drive to left fielder Dylan Beavers. Alejandro Kirk scores. Nathan Lukes to 3rd.
+• Top 1: Sean Keys out on a sacrifice fly to right fielder Rece Hinds. Nathan Lukes scores.
+• Bottom 1: Pete Alonso homers (39) on a fly ball to right field.
+• Bottom 6: Gunnar Henderson homers (24) on a fly ball to right field.
+• Bottom 8: Pete Alonso homers (40) on a fly ball to left field. Christian Franklin scores.
 
-Wild Card: Blue Jays: 3 GB
+Wild Card: Blue Jays: 3.5 GB
 Teams ahead:
 1. Yankees — +9.5
 2. Red Sox — +4
