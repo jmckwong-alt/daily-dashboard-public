@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, September 23, 2026**
-*Updated 6:41 AM*
+*Updated 12:14 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-57.0°F (feels like 56.5°F)
+56.2°F (feels like 55.4°F)
 Fog
 ---
 
@@ -63,10 +63,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Editors (!) of higher education journal publish editorial about academic freedom&#8230;](https://leiterreports.com/2026/09/23/editors-of-higher-education-journal-publish-editorial-about-academic-freedom/)
 - [Pittsburgh&#8217;s John Norton wins Lakatos Award&#8230;](https://leiterreports.com/2026/09/22/pittsburghs-john-norton-wins-lakatos-award/)
 - [AIs are not conscious&#8230;](https://leiterreports.com/2026/09/22/ais-are-not-conscious/)
 - [Blast from the past:  What to look for in a book contract with an academic press?](https://leiterreports.com/2026/09/22/blast-from-the-past-what-to-look-for-in-a-book-contract-with-an-academic-press-2/)
-- [California AI company seeks &#8220;research scientist&#8221; knowledgeable about philosophy to work on &#8220;alignment&#8221; issues](https://leiterreports.com/2026/09/22/california-ai-company-seeks-research-scientist-knowledgeable-about-philosophy-to-work-on-alignment-issues/)
 
 
 ==========================================
