@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Thursday, September 24, 2026**
-*Updated 12:18 PM*
+*Updated 5:33 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-49.8°F (feels like 45.9°F)
+55.5°F (feels like 55.0°F)
 Overcast
 ---
 
@@ -50,11 +50,11 @@ Daily Nous
 - [How Different Are Philosophers? (guest post)](https://dailynous.com/how-different-are-philosophers-guest-post/)
 
 The Philosophers' Cocoon
+- [Job market reporting thread (2026-27)](https://philosopherscocoon.com/2026/09/24/job-market-reporting-thread-2026-27/)
 - [Applying for jobs without a letter from one’s postdoc supervisor?](https://philosopherscocoon.com/2026/09/23/applying-for-jobs-without-a-letter-from-ones-postdoc-supervisor/)
 - [Disconnected from the public/social aspects of the profession?](https://philosopherscocoon.com/2026/09/22/disconnected-from-the-public-social-aspects-of-the-profession/)
 - [A literature responding to prominent non-academic posts about AI?](https://philosopherscocoon.com/2026/09/21/a-literature-responding-to-prominent-non-academic-posts-about-ai/)
 - [TeachPhilosophy 101: an online resource](https://philosopherscocoon.com/2026/09/21/teachphilosophy-101-an-online-resource/)
-- [When someone cites but (woefully) misrepresents your work?](https://philosopherscocoon.com/2026/09/18/when-someone-cites-but-woefully-misrepresents-your-work/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -76,10 +76,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [A survey of academics about their AI use&#8230;](https://leiterreports.com/2026/09/24/a-survey-of-academics-about-their-ai-use/)
+- [2026 Kluge Prize for the &#8220;Study of Humanity&#8221; goes to Martha Nussbaum](https://leiterreports.com/2026/09/24/2026-kluge-prize-for-the-study-of-humanity-to-martha-nussbaum/)
 - [How Trump will try to steal the midterm elections (not on November 3, but January 3)](https://leiterreports.com/2026/09/24/how-trump-will-try-to-steal-the-midterm-elections-not-on-november-3-but-january-3/)
 - [&#8220;What if mental disorders aren&#8217;t defects&#8221;?](https://leiterreports.com/2026/09/23/what-if-mental-disorders-arent-defects/)
-- [Editors (!) of higher education journal publish editorial about academic freedom&#8230;](https://leiterreports.com/2026/09/23/editors-of-higher-education-journal-publish-editorial-about-academic-freedom/)
-- [Pittsburgh&#8217;s John Norton wins Lakatos Award&#8230;](https://leiterreports.com/2026/09/22/pittsburghs-john-norton-wins-lakatos-award/)
 
 
 ==========================================
