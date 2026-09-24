@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Thursday, September 24, 2026**
-*Updated 1:39 AM*
+*Updated 6:46 AM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-53.2°F (feels like 50.3°F)
-Fog
+50.9°F (feels like 46.8°F)
+Drizzle
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -23,13 +23,13 @@ How the runs were scored:
 • Bottom 4: Christian Encarnacion-Strand homers (11) on a fly ball to left field.
 • Top 9: Davis Schneider homers (5) on a fly ball to left field. Sean Keys scores.
 
-Wild Card: Blue Jays: 5 GB
+Wild Card: Blue Jays: 4.5 GB
 Teams ahead:
-1. Yankees — +9
-2. Red Sox — +3
+1. Yankees — +10
+2. Red Sox — +4
 3. White Sox — 0 GB
 4. Rangers — 3 GB
-5. Orioles — 4 GB
+5. Orioles — 3.5 GB
 
 
 📚 Google Scholar
@@ -42,7 +42,7 @@ R: 332 (0)
 M: 38 (0)
 ## Philosophy
 
-Daily Nous: unable to retrieve feed (syntax error: line 1, column 0)
+Daily Nous: unable to retrieve feed (HTTP Error 404: Not Found)
 
 The Philosophers' Cocoon
 - [Applying for jobs without a letter from one’s postdoc supervisor?](https://philosopherscocoon.com/2026/09/23/applying-for-jobs-without-a-letter-from-ones-postdoc-supervisor/)
