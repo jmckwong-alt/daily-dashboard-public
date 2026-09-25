@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Friday, September 25, 2026**
-*Updated 5:26 AM*
+*Updated 10:34 AM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-51.0°F (feels like 48.7°F)
-Overcast
+46.4°F (feels like 43.8°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -43,11 +43,11 @@ M: 38 (0)
 ## Philosophy
 
 Daily Nous
+- [Mini-Heap](https://dailynous.com/mini-heap-4/)
 - [Philosophy Teaching Resource Updated](https://dailynous.com/philosophy-teaching-resource-updated/)
 - [Nussbaum Wins Kluge Prize](https://dailynous.com/nussbaum-wins-kluge-prize/)
 - [Online Philosophy Resources Weekly Update](https://dailynous.com/online-philosophy-resources-weekly-update-440/)
 - [Back](https://dailynous.com/back/)
-- [An Open Letter from Academics about AI Risk / Life Without the Internet & the Case for Non-Network Redundancy](https://dailynous.com/an-open-letter-from-academics-about-ai-risk-life-without-the-internet-the-case-for-non-network-redundancy/)
 
 The Philosophers' Cocoon
 - [Job market reporting thread (2026-27)](https://philosopherscocoon.com/2026/09/24/job-market-reporting-thread-2026-27/)
