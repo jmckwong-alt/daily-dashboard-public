@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Sunday, September 27, 2026**
-*Updated 9:38 PM*
+*Updated 11:59 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-60.7°F (feels like 54.2°F)
+53.8°F (feels like 48.8°F)
 Clear
 ---
 
@@ -24,12 +24,12 @@ How the runs were scored:
 • Bottom 3: Davis Schneider grounds out, third baseman Juan Brito to first baseman Sal Stewart. Brett Bateman scores. Kazuma Okamoto to 3rd.
 • Bottom 8: Charles McAdoo homers (3) on a fly ball to center field.
 
-Wild Card: Blue Jays: 5.5 GB
+Wild Card: Blue Jays: 5 GB
 Teams ahead:
 1. Yankees — +9.5
-2. Red Sox — +3.5
+2. Red Sox — +3
 3. White Sox — 0 GB
-4. Rangers — 3.5 GB
+4. Rangers — 4 GB
 5. Orioles — 4.5 GB
 
 
