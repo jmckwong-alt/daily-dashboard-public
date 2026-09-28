@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, September 28, 2026**
-*Updated 5:54 AM*
+*Updated 2:30 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-48.8°F (feels like 43.0°F)
+58.5°F (feels like 54.6°F)
 Clear
 ---
 
@@ -44,11 +44,11 @@ M: 38 (0)
 ## Philosophy
 
 Daily Nous
+- [AI in Peer Review: Practices & Policies](https://dailynous.com/ai-in-peer-review-practices-policies/)
+- [Online Philosophy Resources Weekly Update](https://dailynous.com/online-philosophy-resources-weekly-update-441/)
 - [New Study on AI’s Philosophical Skills](https://dailynous.com/new-study-on-ais-philosophical-skills/)
 - [Mini-Heap](https://dailynous.com/mini-heap-4/)
 - [Philosophy Teaching Resource Updated](https://dailynous.com/philosophy-teaching-resource-updated/)
-- [Nussbaum Wins Kluge Prize](https://dailynous.com/nussbaum-wins-kluge-prize/)
-- [Online Philosophy Resources Weekly Update](https://dailynous.com/online-philosophy-resources-weekly-update-440/)
 
 The Philosophers' Cocoon
 - [Job market reporting thread (2026-27)](https://philosopherscocoon.com/2026/09/24/job-market-reporting-thread-2026-27/)
@@ -77,10 +77,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [An experience with feedback from an LLM](https://leiterreports.com/2026/09/28/an-experience-with-feedback-from-an-llm/)
+- [The decline in humanities majors](https://leiterreports.com/2026/09/28/the-decline-in-humanities-majors/)
 - [A survey of academics about their AI use&#8230;](https://leiterreports.com/2026/09/24/a-survey-of-academics-about-their-ai-use/)
 - [2026 Kluge Prize for the &#8220;Study of Humanity&#8221; goes to Martha Nussbaum](https://leiterreports.com/2026/09/24/2026-kluge-prize-for-the-study-of-humanity-to-martha-nussbaum/)
-- [How Trump will try to steal the midterm elections (not on November 3, but January 3)](https://leiterreports.com/2026/09/24/how-trump-will-try-to-steal-the-midterm-elections-not-on-november-3-but-january-3/)
-- [&#8220;What if mental disorders aren&#8217;t defects&#8221;?](https://leiterreports.com/2026/09/23/what-if-mental-disorders-arent-defects/)
 
 
 ==========================================
