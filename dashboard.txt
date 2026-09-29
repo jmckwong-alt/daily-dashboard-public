@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, September 29, 2026**
-*Updated 2:21 PM*
+*Updated 7:39 PM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-61.4°F (feels like 60.4°F)
-Clear
+69.1°F (feels like 69.1°F)
+Mostly clear
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -44,11 +44,11 @@ M: 38 (0)
 ## Philosophy
 
 Daily Nous
+- [A Philosopher Among the MacArthur Fellows](https://dailynous.com/2026/09/29/a-philosopher-among-the-macarthur-fellows/)
 - [Analytic Philosophy and McCarthyism: A New Look (guest post)](https://dailynous.com/2026/09/29/analytic-philosophy-and-mccarthyism-a-new-look-guest-post/)
 - [A Little More Logic & Semantics Every Day](https://dailynous.com/2026/09/29/a-little-more-logic-semantics-every-day/)
 - [AI in Peer Review: Practices & Policies](https://dailynous.com/2026/09/28/ai-in-peer-review-practices-policies/)
 - [Online Philosophy Resources Weekly Update](https://dailynous.com/2026/09/28/online-philosophy-resources-weekly-update-441/)
-- [New Study on AI’s Philosophical Skills](https://dailynous.com/2026/09/25/new-study-on-ais-philosophical-skills/)
 
 The Philosophers' Cocoon
 - [Visiting other institutions while dissertating (after one’s supervisor leaves for another university)?](https://philosopherscocoon.com/2026/09/29/visiting-other-institutions-while-dissertating-after-ones-supervisor-leaves-for-another-university/)
@@ -77,10 +77,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Lateral moves/retirements since the 2024 Philosophical Gourmet Report:  2026-27 edition](https://leiterreports.com/2026/09/29/lateral-moves-retirement-since-the-2024-philosophical-gourmet-report-2026-27-edition/)
 - [Three philosophers in Europe win ERC grants](https://leiterreports.com/2026/09/29/three-philosophers-in-europe-win-erc-grants/)
 - [A survey seeking responses from philosophers about &#8220;exploitation&#8221;](https://leiterreports.com/2026/09/29/a-survey-seeking-responses-from-philosophers-about-exploitation/)
 - [An experience with feedback from an LLM](https://leiterreports.com/2026/09/28/an-experience-with-feedback-from-an-llm/)
-- [The decline in humanities majors](https://leiterreports.com/2026/09/28/the-decline-in-humanities-majors/)
 
 
 ==========================================
