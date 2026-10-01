@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Thursday, October 1, 2026**
-*Updated 7:49 AM*
+*Updated 3:41 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-53.8°F (feels like 51.2°F)
+69.9°F (feels like 71.0°F)
 Clear
 ---
 
@@ -51,11 +51,11 @@ Daily Nous
 - [A Little More Logic & Semantics Every Day](https://dailynous.com/2026/09/29/a-little-more-logic-semantics-every-day/)
 
 The Philosophers' Cocoon
+- [Search committees scooping applicants’ ideas?](https://philosopherscocoon.com/2026/10/01/search-committees-scooping-applicants-ideas/)
+- [Submissions stuck at “submitted” stage?](https://philosopherscocoon.com/2026/10/01/apq-submission-stuck-at-submitted-stage/)
 - [Should CVs flag publications that are part of a special issue, etc.?](https://philosopherscocoon.com/2026/09/30/should-cvs-flag-publications-that-are-part-of-a-special-issue-etc/)
 - [Visiting other institutions while dissertating (after one’s supervisor leaves for another university)?](https://philosopherscocoon.com/2026/09/29/visiting-other-institutions-while-dissertating-after-ones-supervisor-leaves-for-another-university/)
 - [PhD dept. prestige and hiring in the US & UK](https://philosopherscocoon.com/2026/09/28/phd-dept-prestige-and-hiring-in-the-us-uk/)
-- [Job market reporting thread (2026-27)](https://philosopherscocoon.com/2026/09/24/job-market-reporting-thread-2026-27/)
-- [Applying for jobs without a letter from one’s postdoc supervisor?](https://philosopherscocoon.com/2026/09/23/applying-for-jobs-without-a-letter-from-ones-postdoc-supervisor/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -77,10 +77,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Philosopher Ann Cudd&#8217;s war on Portland State University](https://leiterreports.com/2026/10/01/philosopher-ann-cudds-war-on-portland-state-university/)
+- [Faculty strikes at Edinburgh, Dundee, and Nottingham in the UK&#8230;](https://leiterreports.com/2026/10/01/faculty-strikes-at-edinburgh-dundee-and-nottingham-in-the-uk/)
 - [This is why things have been a bit quieter here&#8230;](https://leiterreports.com/2026/09/30/this-is-why-things-have-been-a-bit-quieter-here/)
 - [Do as I say, not as I do](https://leiterreports.com/2026/09/30/do-as-i-say-not-as-i-do/)
-- [The idiosyncratic MacArthur Foundation finally picks a philosopher for the Fellowship windfall after many years of ignoring philosophy](https://leiterreports.com/2026/09/30/the-idiosyncratic-maccarthur-foundation-finally-picks-a-philosopher-for-the-fellowship-windfall-after-many-years-of-ignoring-philosophy/)
-- [Lateral moves/retirements since the 2024 Philosophical Gourmet Report:  2026-27 edition](https://leiterreports.com/2026/09/29/lateral-moves-retirement-since-the-2024-philosophical-gourmet-report-2026-27-edition/)
 
 
 ==========================================
