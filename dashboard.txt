@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Friday, October 2, 2026**
-*Updated 12:14 AM*
+*Updated 6:15 AM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-63.8°F (feels like 64.5°F)
+57.9°F (feels like 54.4°F)
 Clear
 ---
 
@@ -57,7 +57,7 @@ The Philosophers' Cocoon
 - [Visiting other institutions while dissertating (after one’s supervisor leaves for another university)?](https://philosopherscocoon.com/2026/09/29/visiting-other-institutions-while-dissertating-after-ones-supervisor-leaves-for-another-university/)
 - [PhD dept. prestige and hiring in the US & UK](https://philosopherscocoon.com/2026/09/28/phd-dept-prestige-and-hiring-in-the-us-uk/)
 
-APA Blog: unable to retrieve feed (HTTP Error 429: Too Many Requests)
+APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
 PhilArchive
 
