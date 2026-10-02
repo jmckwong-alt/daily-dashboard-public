@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
-**Thursday, October 1, 2026**
-*Updated 8:32 PM*
+**Friday, October 2, 2026**
+*Updated 12:14 AM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-73.6°F (feels like 73.4°F)
+63.8°F (feels like 64.5°F)
 Clear
 ---
 
@@ -36,8 +36,8 @@ Teams ahead:
 📚 Google Scholar
 Total citations: 521
 Daily change: no change
-B: 501 (+4)
-S: 1906 (+2)
+B: 501 (0)
+S: 1906 (0)
 E: 192 (0)
 R: 335 (0)
 M: 38 (0)
@@ -57,7 +57,7 @@ The Philosophers' Cocoon
 - [Visiting other institutions while dissertating (after one’s supervisor leaves for another university)?](https://philosopherscocoon.com/2026/09/29/visiting-other-institutions-while-dissertating-after-ones-supervisor-leaves-for-another-university/)
 - [PhD dept. prestige and hiring in the US & UK](https://philosopherscocoon.com/2026/09/28/phd-dept-prestige-and-hiring-in-the-us-uk/)
 
-APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
+APA Blog: unable to retrieve feed (HTTP Error 429: Too Many Requests)
 
 PhilArchive
 
