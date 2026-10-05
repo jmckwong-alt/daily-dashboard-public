@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, October 5, 2026**
-*Updated 4:23 PM*
+*Updated 10:55 PM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-65.3°F (feels like 62.5°F)
-Overcast
+61.6°F (feels like 59.1°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -44,11 +44,11 @@ M: 40 (0)
 ## Philosophy
 
 Daily Nous
+- [Ioanna Kuçuradi (1936-2026)](https://dailynous.com/2026/10/05/ioanna-kucuradi-1936-2026/)
 - [Philosophers Among Recent ARC Future Fellowship Winners](https://dailynous.com/2026/10/05/philosophers-among-recent-arc-future-fellowship-winners/)
 - [Mini-Heap](https://dailynous.com/2026/10/05/mini-heap-730/)
 - [Online Philosophy Resources Weekly Update](https://dailynous.com/2026/10/05/online-philosophy-resources-weekly-update-442/)
 - [A Request from an AI (updated)](https://dailynous.com/2026/10/02/a-request-from-an-ai/)
-- [Overwhelming Cheating](https://dailynous.com/2026/09/30/overwhelming-cheating/)
 
 The Philosophers' Cocoon
 - [Will AI increase philosophy major numbers?](https://philosopherscocoon.com/2026/10/05/will-ai-increase-philosophy-major-numbers/)
