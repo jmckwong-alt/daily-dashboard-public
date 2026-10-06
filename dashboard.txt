@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, October 6, 2026**
-*Updated 3:20 AM*
+*Updated 10:47 AM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-51.1°F (feels like 45.7°F)
+43.8°F (feels like 37.7°F)
 Clear
 ---
 
@@ -44,11 +44,11 @@ M: 40 (0)
 ## Philosophy
 
 Daily Nous
+- [Philosopher Among New AI2050 Senior Fellows](https://dailynous.com/2026/10/06/philosopher-among-new-ai2050-senior-fellows/)
 - [Ioanna Kuçuradi (1936-2026)](https://dailynous.com/2026/10/05/ioanna-kucuradi-1936-2026/)
 - [Philosophers Among Recent ARC Future Fellowship Winners](https://dailynous.com/2026/10/05/philosophers-among-recent-arc-future-fellowship-winners/)
 - [Mini-Heap](https://dailynous.com/2026/10/05/mini-heap-730/)
 - [Online Philosophy Resources Weekly Update](https://dailynous.com/2026/10/05/online-philosophy-resources-weekly-update-442/)
-- [A Request from an AI (updated)](https://dailynous.com/2026/10/02/a-request-from-an-ai/)
 
 The Philosophers' Cocoon
 - [Will AI increase philosophy major numbers?](https://philosopherscocoon.com/2026/10/05/will-ai-increase-philosophy-major-numbers/)
@@ -57,7 +57,7 @@ The Philosophers' Cocoon
 - [Search committees scooping applicants’ ideas?](https://philosopherscocoon.com/2026/10/01/search-committees-scooping-applicants-ideas/)
 - [Submissions stuck at “submitted” stage?](https://philosopherscocoon.com/2026/10/01/apq-submission-stuck-at-submitted-stage/)
 
-APA Blog: unable to retrieve feed (HTTP Error 429: Too Many Requests)
+APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
 PhilArchive
 
