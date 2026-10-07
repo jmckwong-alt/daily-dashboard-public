@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, October 7, 2026**
-*Updated 9:18 AM*
+*Updated 10:16 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-47.7°F (feels like 42.5°F)
+66.7°F (feels like 65.3°F)
 Clear
 ---
 
@@ -44,11 +44,11 @@ M: 40 (0)
 ## Philosophy
 
 Daily Nous
+- [Simion Elected to ISC Board](https://dailynous.com/2026/10/07/simion-elected-to-isc-board/)
 - [Your One Piece of Philosophy Grad School Advice](https://dailynous.com/2026/10/06/your-one-piece-of-philosophy-grad-school-advice/)
 - [A History of U.S. Philosophy Via APA Presidencies (guest post)](https://dailynous.com/2026/10/06/a-history-of-u-s-philosophy-via-apa-presidencies-guest-post/)
 - [Philosopher Among New AI2050 Senior Fellows](https://dailynous.com/2026/10/06/philosopher-among-new-ai2050-senior-fellows/)
 - [Ioanna Kuçuradi (1936-2026)](https://dailynous.com/2026/10/05/ioanna-kucuradi-1936-2026/)
-- [Philosophers Among Recent ARC Future Fellowship Winners](https://dailynous.com/2026/10/05/philosophers-among-recent-arc-future-fellowship-winners/)
 
 The Philosophers' Cocoon
 - [On judging one’s own writing](https://philosopherscocoon.com/2026/10/06/on-judging-ones-own-writing/)
@@ -77,10 +77,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Open AI&#8217;s math proofs](https://leiterreports.com/2026/10/07/open-ais-math-proofs/)
+- [Berlin and Hart, now Fuller and Kelsen](https://leiterreports.com/2026/10/07/berlin-and-hart-now-fuller-and-kelsen/)
 - [Can you use your writing sample for philosophy jobs as your job talk?](https://leiterreports.com/2026/10/06/can-you-use-your-writing-sample-for-philosophy-jobs-as-your-job-talk/)
 - [Rome redux](https://leiterreports.com/2026/10/06/rome-redux/)
-- [Another piece on AI notices that it will destroy capitalism itself](https://leiterreports.com/2026/10/06/another-piece-on-ai-notices-that-it-will-destroy-capitalism-itself/)
-- [Blast from the past:  On the pursuit of &#8220;novelty&#8221; in jurisprudence and normative philosophy](https://leiterreports.com/2026/10/05/blast-from-the-past-on-the-pursuit-of-novelty-in-jurisprudence-and-normative-philosophy-2/)
 
 
 ==========================================
