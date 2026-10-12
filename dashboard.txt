@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, October 12, 2026**
-*Updated 6:34 AM*
+*Updated 4:09 PM*
 
 ---
 
@@ -9,8 +9,8 @@
 
 ## ☀️ Boone Weather
 Boone
-54.8°F (feels like 48.3°F)
-Overcast
+59.6°F (feels like 54.7°F)
+Clear
 ---
 
 ## ⚾ Toronto Blue Jays
@@ -44,18 +44,18 @@ M: 40 (0)
 ## Philosophy
 
 Daily Nous
+- [Is a “Hardwired Pause” of AI Possible?](https://dailynous.com/2026/10/12/is-a-hardwired-pause-of-ai-possible/)
+- [Online Philosophy Resources Weekly Update](https://dailynous.com/2026/10/12/online-philosophy-resources-weekly-update-443/)
 - [Mini-Heap](https://dailynous.com/2026/10/09/mini-heap-731/)
 - [AI for Philosophy: Progress through Capital-Intensive Philosophy (guest post)](https://dailynous.com/2026/10/08/ai-for-philosophy-progress-through-capital-intensive-philosophy-guest-post/)
 - [Those OpenAI Math Results](https://dailynous.com/2026/10/07/those-openai-math-results/)
-- [Simion Elected to ISC Board](https://dailynous.com/2026/10/07/simion-elected-to-isc-board/)
-- [Your One Piece of Philosophy Grad School Advice](https://dailynous.com/2026/10/06/your-one-piece-of-philosophy-grad-school-advice/)
 
 The Philosophers' Cocoon
+- [Post-acceptance publication delays?](https://philosopherscocoon.com/2026/10/12/post-acceptance-publication-delays/)
 - [Having students use AI on assignments in (philosophy of AI) courses?](https://philosopherscocoon.com/2026/10/09/having-students-use-ai-on-assignments-in-philosophy-of-ai-courses/)
 - [Students/postdocs writing up supervisors’ ideas as co-author?](https://philosopherscocoon.com/2026/10/08/students-postdocs-writing-up-supervisors-ideas-as-co-author/)
 - [On judging one’s own writing](https://philosopherscocoon.com/2026/10/06/on-judging-ones-own-writing/)
 - [Will AI increase philosophy major numbers?](https://philosopherscocoon.com/2026/10/05/will-ai-increase-philosophy-major-numbers/)
-- [Why “open AOS/AOC” job ads?](https://philosopherscocoon.com/2026/10/02/why-open-aos-aoc-job-ads/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -77,10 +77,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Exam fellows at All Souls College, Oxford:  the exam questions](https://leiterreports.com/2026/10/12/exam-fellows-at-all-souls-oxford/)
+- [Fields Medalist on Open AI&#8217;s release of hundreds of mathematical proofs:  &#8220;They have annihilated my field of research&#8221;](https://leiterreports.com/2026/10/12/fields-medalist-on-open-ais-release-of-hundreds-of-mathematical-proofs-they-have-annihilated-my-field-of-research/)
+- [Pausing AI development is feasible&#8230;](https://leiterreports.com/2026/10/12/pausing-ai-development-is-feasible/)
 - [The huge demand for &#8220;philosophy and AI&#8221; faculty (UPDATED)](https://leiterreports.com/2026/10/08/the-huge-demand-for-philosophy-and-ai-faculty/)
-- [Time to bring back the GRE?](https://leiterreports.com/2026/10/08/time-to-bring-back-the-gre/)
-- [Open AI&#8217;s math proofs](https://leiterreports.com/2026/10/07/open-ais-math-proofs/)
-- [Berlin and Hart, now Fuller and Kelsen](https://leiterreports.com/2026/10/07/berlin-and-hart-now-fuller-and-kelsen/)
 
 
 ==========================================
