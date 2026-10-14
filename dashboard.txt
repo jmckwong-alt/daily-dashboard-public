@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, October 14, 2026**
-*Updated 8:02 AM*
+*Updated 2:03 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-60.6°F (feels like 54.1°F)
+65.6°F (feels like 63.9°F)
 Clear
 ---
 
@@ -44,11 +44,11 @@ M: 40 (0)
 ## Philosophy
 
 Daily Nous
+- [PIKSI’s in Peril but You Can Help (guest post)](https://dailynous.com/2026/10/14/piksis-in-peril-but-you-can-help-guest-post/)
 - [Mini-Heap](https://dailynous.com/2026/10/13/mini-heap-732/)
 - [The Future Currency of Achievement in Human Philosophy](https://dailynous.com/2026/10/13/the-future-currency-of-achievement-in-human-philosophy/)
 - [Is a “Hardwired Pause” of AI Possible?](https://dailynous.com/2026/10/12/is-a-hardwired-pause-of-ai-possible/)
 - [Online Philosophy Resources Weekly Update](https://dailynous.com/2026/10/12/online-philosophy-resources-weekly-update-443/)
-- [Mini-Heap](https://dailynous.com/2026/10/09/mini-heap-731/)
 
 The Philosophers' Cocoon
 - [Undergrad journal and conference tips?](https://philosopherscocoon.com/2026/10/13/undergrad-journal-and-conference-tips/)
@@ -72,10 +72,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Tempting fate, while avoiding catastrophe](https://leiterreports.com/2026/10/14/tempting-fate-while-avoiding-catastrophe/)
 - [In Memoriam:  Rex Martin (1935-2026)](https://leiterreports.com/2026/10/13/in-memoriam-rex-martin-1935-2026/)
 - [A recent interview with Thomas Nagel about &#8220;consciousness&#8221; and related topics.](https://leiterreports.com/2026/10/13/a-recent-interview-with-thomas-nagel-about-consciousness-and-related-topics/)
 - [AI in chemistry](https://leiterreports.com/2026/10/13/ai-in-chemistry/)
-- [Exam fellows at All Souls College, Oxford:  the exam questions](https://leiterreports.com/2026/10/12/exam-fellows-at-all-souls-oxford/)
 
 
 ==========================================
