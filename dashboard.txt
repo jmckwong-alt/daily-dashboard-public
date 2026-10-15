@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Thursday, October 15, 2026**
-*Updated 12:08 PM*
+*Updated 5:22 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-63.2°F (feels like 63.3°F)
+74.7°F (feels like 80.4°F)
 Clear
 ---
 
@@ -44,11 +44,11 @@ M: 40 (0)
 ## Philosophy
 
 Daily Nous
+- [New: “Why Teach Philosophy?”](https://dailynous.com/2026/10/15/new-why-teach-philosophy/)
 - [AI Use in STEM and Philosophy Dissertations](https://dailynous.com/2026/10/15/ai-use-in-dissertations/)
 - [PIKSI’s in Peril but You Can Help (guest post)](https://dailynous.com/2026/10/14/piksis-in-peril-but-you-can-help-guest-post/)
 - [Mini-Heap](https://dailynous.com/2026/10/13/mini-heap-732/)
 - [The Future Currency of Achievement in Human Philosophy](https://dailynous.com/2026/10/13/the-future-currency-of-achievement-in-human-philosophy/)
-- [Is a “Hardwired Pause” of AI Possible?](https://dailynous.com/2026/10/12/is-a-hardwired-pause-of-ai-possible/)
 
 The Philosophers' Cocoon
 - [What are your teaching habits?](https://philosopherscocoon.com/2026/10/14/what-are-your-teaching-habits/)
@@ -72,10 +72,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [World University Rankings:  peeking a bit behind the curtain](https://leiterreports.com/2026/10/15/world-university-rankings-peeking-a-bit-behind-the-curtain/)
 - [Reichenbach on epistemology as a branch of sociology](https://leiterreports.com/2026/10/15/reichenbach-on-epistemology-as-a-branch-of-sociology/)
 - [A useful summary of the damage wrought by the U.S. super-legislature (i.e., the &#8220;Supreme Court&#8221;)&#8230;](https://leiterreports.com/2026/10/14/a-useful-summary-of-the-damage-wrought-by-the-u-s-super-legislature-i-e-the-supreme-court/)
 - [Tempting fate, while avoiding catastrophe](https://leiterreports.com/2026/10/14/tempting-fate-while-avoiding-catastrophe/)
-- [In Memoriam:  Rex Martin (1935-2026)](https://leiterreports.com/2026/10/13/in-memoriam-rex-martin-1935-2026/)
 
 
 ==========================================
