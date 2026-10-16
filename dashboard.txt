@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Friday, October 16, 2026**
-*Updated 11:55 AM*
+*Updated 4:58 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-60.4°F (feels like 58.6°F)
+70.8°F (feels like 70.7°F)
 Clear
 ---
 
@@ -44,11 +44,11 @@ M: 40 (0)
 ## Philosophy
 
 Daily Nous
+- [Putting the Pub in Public Philosophy](https://dailynous.com/2026/10/16/putting-the-pub-in-public-philosophy/)
 - [New: “Why Teach Philosophy?”](https://dailynous.com/2026/10/15/new-why-teach-philosophy/)
 - [AI Use in STEM and Philosophy Dissertations](https://dailynous.com/2026/10/15/ai-use-in-dissertations/)
 - [PIKSI’s in Peril but You Can Help (guest post)](https://dailynous.com/2026/10/14/piksis-in-peril-but-you-can-help-guest-post/)
 - [Mini-Heap](https://dailynous.com/2026/10/13/mini-heap-732/)
-- [The Future Currency of Achievement in Human Philosophy](https://dailynous.com/2026/10/13/the-future-currency-of-achievement-in-human-philosophy/)
 
 The Philosophers' Cocoon
 - [What are your teaching habits?](https://philosopherscocoon.com/2026/10/14/what-are-your-teaching-habits/)
@@ -72,10 +72,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [&#8220;Danielle Allen is wrong about Trump&#8221;](https://leiterreports.com/2026/10/16/danielle-allen-is-wrong-about-trump/)
 - [How Trump will try to steal the midterm elections on or right after election day](https://leiterreports.com/2026/10/15/how-trump-will-try-to-steal-the-midterm-elections-on-or-right-after-election-day/)
 - [World University Rankings:  peeking a bit behind the curtain](https://leiterreports.com/2026/10/15/world-university-rankings-peeking-a-bit-behind-the-curtain/)
 - [Reichenbach on epistemology as a branch of sociology](https://leiterreports.com/2026/10/15/reichenbach-on-epistemology-as-a-branch-of-sociology/)
-- [A useful summary of the damage wrought by the U.S. super-legislature (i.e., the &#8220;Supreme Court&#8221;)&#8230;](https://leiterreports.com/2026/10/14/a-useful-summary-of-the-damage-wrought-by-the-u-s-super-legislature-i-e-the-supreme-court/)
 
 
 ==========================================
