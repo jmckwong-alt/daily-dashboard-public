@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, October 19, 2026**
-*Updated 2:59 PM*
+*Updated 8:43 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-50.2°F (feels like 44.9°F)
+61.5°F (feels like 55.3°F)
 Clear
 ---
 
@@ -51,11 +51,11 @@ Daily Nous
 - [AI Use in STEM and Philosophy Dissertations](https://dailynous.com/2026/10/15/ai-use-in-dissertations/)
 
 The Philosophers' Cocoon
+- [Suggestions for mid-career philosophers at non-prestigious programs/institutions?](https://philosopherscocoon.com/2026/10/19/suggestions-for-mid-career-philosophers-at-non-prestigious-programs-institutions/)
 - [What are your teaching habits?](https://philosopherscocoon.com/2026/10/14/what-are-your-teaching-habits/)
 - [Undergrad journal and conference tips?](https://philosopherscocoon.com/2026/10/13/undergrad-journal-and-conference-tips/)
 - [How can we help you? (October 2026)](https://philosopherscocoon.com/2026/10/13/how-can-we-help-you-october-2026/)
 - [Post-acceptance publication delays?](https://philosopherscocoon.com/2026/10/12/post-acceptance-publication-delays/)
-- [Having students use AI on assignments in (philosophy of AI) courses?](https://philosopherscocoon.com/2026/10/09/having-students-use-ai-on-assignments-in-philosophy-of-ai-courses/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -72,10 +72,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Open access philosophy books, a thread:  Part V](https://leiterreports.com/2026/10/19/open-access-philosophy-books-a-thread-part-v/)
 - [The Texas war on free speech and academic freedom](https://leiterreports.com/2026/10/19/the-texas-war-on-free-speech-and-academic-freedom/)
 - [AI is already taking over white collar jobs](https://leiterreports.com/2026/10/19/ai-is-already-taking-over-white-collar-jobs/)
 - [Undergraduate demand for philosophy at Harvard](https://leiterreports.com/2026/10/17/undergraduate-demand-for-philosophy-at-harvard/)
-- [&#8220;Danielle Allen is wrong about Trump&#8221;](https://leiterreports.com/2026/10/16/danielle-allen-is-wrong-about-trump/)
 
 
 ==========================================
