@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Tuesday, October 20, 2026**
-*Updated 10:26 AM*
+*Updated 3:23 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-44.5°F (feels like 36.5°F)
+57.1°F (feels like 52.0°F)
 Clear
 ---
 
@@ -44,18 +44,18 @@ M: 40 (0)
 ## Philosophy
 
 Daily Nous
+- [New Series of Philosophical Puzzles](https://dailynous.com/2026/10/20/new-series-of-philosophical-puzzles/)
 - [New Philosophy of AI Initiatives](https://dailynous.com/2026/10/19/new-philosophy-of-ai-initiatives/)
 - [Online Philosophy Resources Weekly Update](https://dailynous.com/2026/10/19/online-philosophy-resources-weekly-update-444/)
 - [Putting the Pub in Public Philosophy](https://dailynous.com/2026/10/16/putting-the-pub-in-public-philosophy/)
 - [New: “Why Teach Philosophy?”](https://dailynous.com/2026/10/15/new-why-teach-philosophy/)
-- [AI Use in STEM and Philosophy Dissertations](https://dailynous.com/2026/10/15/ai-use-in-dissertations/)
 
 The Philosophers' Cocoon
+- [How often to request updated letters of recommendation?](https://philosopherscocoon.com/2026/10/20/how-often-to-request-updated-letters-of-recommendation/)
 - [Suggestions for mid-career philosophers at non-prestigious programs/institutions?](https://philosopherscocoon.com/2026/10/19/suggestions-for-mid-career-philosophers-at-non-prestigious-programs-institutions/)
 - [What are your teaching habits?](https://philosopherscocoon.com/2026/10/14/what-are-your-teaching-habits/)
 - [Undergrad journal and conference tips?](https://philosopherscocoon.com/2026/10/13/undergrad-journal-and-conference-tips/)
 - [How can we help you? (October 2026)](https://philosopherscocoon.com/2026/10/13/how-can-we-help-you-october-2026/)
-- [Post-acceptance publication delays?](https://philosopherscocoon.com/2026/10/12/post-acceptance-publication-delays/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -64,18 +64,18 @@ PhilArchive
 The Brains Blog: unable to retrieve feed (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>)
 
 PEA Soup
+- [Puzzles: The Problem of Harmfully Using People](https://peasoupblog.com/2026/10/puzzles-the-problem-of-harmfully-using-people/)
 - [ANNOUNCEMENT: THE MURPHY INSTITUTE’S CENTER FOR ETHICS FACULTY FELLOWSHIP APPLICATION NOW OPEN FOR 2027-2028](https://peasoupblog.com/2026/10/announcement-center-for-ethics-faculty-fellowship-application-now-open-for-2027-2028/)
 - [Coming Soon: ‘Puzzles’](https://peasoupblog.com/2026/09/coming-soon-puzzles/)
 - [Ethics – What the Demands of Sustainability Can(not) Be](https://peasoupblog.com/2026/09/ethics-what-the-demands-of-sustainability-cannot-be/)
 - [Announcement: Ethics – What the Demands of Sustainability Can(not) Be](https://peasoupblog.com/2026/09/announcement-ethics-what-the-demands-of-sustainability-cannot-be/)
-- [Applications are now open for the CELPA Mentoring Scheme](https://peasoupblog.com/2026/09/applications-are-now-open-for-the-celpa-mentoring-scheme/)
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [Hubert Dreyfus&#8217;s attack on AI:  relevant again](https://leiterreports.com/2026/10/20/hubert-dreyfuss-attack-on-ai-relevant-again/)
+- [Which serious Anglophone departments offer opportunities to study the post-Kantian Continental traditions in philosophy?  2026 edition](https://leiterreports.com/2026/10/20/which-serious-anglophone-departments-offer-opportunities-to-study-the-post-kantian-continental-traditions-in-philsophy-2026-edition/)
 - [Open access philosophy books, a thread:  Part V](https://leiterreports.com/2026/10/19/open-access-philosophy-books-a-thread-part-v/)
 - [The Texas war on free speech and academic freedom](https://leiterreports.com/2026/10/19/the-texas-war-on-free-speech-and-academic-freedom/)
-- [AI is already taking over white collar jobs](https://leiterreports.com/2026/10/19/ai-is-already-taking-over-white-collar-jobs/)
-- [Undergraduate demand for philosophy at Harvard](https://leiterreports.com/2026/10/17/undergraduate-demand-for-philosophy-at-harvard/)
 
 
 ==========================================
