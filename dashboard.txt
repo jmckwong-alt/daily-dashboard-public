@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Monday, October 26, 2026**
-*Updated 2:34 PM*
+*Updated 8:09 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-51.2°F (feels like 46.6°F)
+63.5°F (feels like 60.9°F)
 Clear
 ---
 
@@ -51,11 +51,11 @@ Daily Nous
 - [Online Philosophy Resources Weekly Update](https://dailynous.com/2026/10/26/online-philosophy-resources-weekly-update-445/)
 
 The Philosophers' Cocoon
+- [Cagliari Statement on Linguistic and Conceptual Justice in AI](https://philosopherscocoon.com/2026/10/26/cagliari-statement-on-linguistic-and-conceptual-justice-in-ai/)
 - [How to approach AI in a freshman seminar (with intensive reading & writing)?](https://philosopherscocoon.com/2026/10/26/how-to-approach-ai-in-a-freshman-seminar-with-intensive-reading-writing/)
 - [Job apps with short deadlines?](https://philosopherscocoon.com/2026/10/23/job-apps-with-short-deadlines/)
 - [Tips for working with research assistants?](https://philosopherscocoon.com/2026/10/22/tips-for-working-with-research-assistants/)
 - [“Lumpl” or “Lump1”?](https://philosopherscocoon.com/2026/10/22/lumpl-or-lump1/)
-- [How to solicit recommendation letters from people outside of your department?](https://philosopherscocoon.com/2026/10/21/how-to-solicit-recommendation-letters-from-people-outside-of-your-department/)
 
 APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
@@ -72,10 +72,10 @@ PEA Soup
 
 Leiter Reports
 - [Leiter Reports: A Philosophy Blog](/)
+- [The study of philosophy in law schools and JD/PhD programs, 2026 edition](https://leiterreports.com/2026/10/26/the-study-of-philosophy-in-law-schools-and-jd-phd-programs-2026-edition/)
 - [Congratulations to my friends in Serbia and Brazil&#8230;](https://leiterreports.com/2026/10/26/congratulations-to-my-friends-in-serbia-and-brazil/)
 - [Final field-specific analysis related to the &#8220;Boghossian Report&#8221; is released, on philosophy&#8230;](https://leiterreports.com/2026/10/26/final-field-specific-analysis-related-to-the-boghossian-report-is-released-on-philosophy/)
 - [Talk to philosopher bots](https://leiterreports.com/2026/10/26/talk-to-philosophers-bots/)
-- [The prudent wing of the ruling class speaks](https://leiterreports.com/2026/10/22/the-prudent-wing-of-the-ruling-class-speaks/)
 
 
 ==========================================
