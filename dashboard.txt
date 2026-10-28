@@ -1,7 +1,7 @@
 # 📅 Daily Dashboard
 
 **Wednesday, October 28, 2026**
-*Updated 7:07 PM*
+*Updated 11:34 PM*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## ☀️ Boone Weather
 Boone
-60.7°F (feels like 56.9°F)
+51.0°F (feels like 48.9°F)
 Overcast
 ---
 
@@ -57,7 +57,7 @@ The Philosophers' Cocoon
 - [How to approach AI in a freshman seminar (with intensive reading & writing)?](https://philosopherscocoon.com/2026/10/26/how-to-approach-ai-in-a-freshman-seminar-with-intensive-reading-writing/)
 - [Job apps with short deadlines?](https://philosopherscocoon.com/2026/10/23/job-apps-with-short-deadlines/)
 
-APA Blog: unable to retrieve feed (HTTP Error 429: Too Many Requests)
+APA Blog: unable to retrieve feed (HTTP Error 406: Not Acceptable)
 
 PhilArchive
 
